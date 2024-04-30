@@ -2006,7 +2006,7 @@
       },
       {
         "id": "nigga",
-        "match": "ni*gg*a|ni*gg*s|nignog|nig nog"
+        "match": "(ni*gg*a)|(n.*gg.*s)|(nignog)|(nig nog)"
       },
       {
         "id": "paki",
