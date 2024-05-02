@@ -1,0 +1,234 @@
+[
+  {
+    "id": "cabron",
+    "match": "\\b(c+)([aáàâãä4]+)(b+)(r+)([oóòôõö0]+)([nñ]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "cabrón",
+    "match": "(c+)([aáàâãä4]+)(b+)(r+)([oóòôõö0]+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "cago",
+    "match": "\\b(c+)([aáàâãä4]+)(g+)([oóòôõö0]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "capullo",
+    "match": "(c+)([aáàâãä4]+)(p+)([uúùûü]+)(l+)(l+)([oóòôõö0]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "chamo",
+    "match": "\\b(c+)(h+)([aáàâãä4]+)(m+)([oóòôõö0]+)\\b",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "coño",
+    "match": "(c+)([oóòôõö0]+)(ñ+)([oóòôõö0]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "culo",
+    "match": "\\b(c+)([uúùûü]+)(l+)([oóòôõö0]+)",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "gilipollas",
+    "match": "((g|j)+)([iíìîï1]+)(l+)([iíìîï1]+)(p+)([oóòôõö0]+)(l+)(l+)([aáàâãä4]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "gilipollas",
+    "match": "(g+)([iíìîï1]+)(l+)([iíìîï1]+)(p+)([oóòôõö0]+)(l+)(l+)([aáàâãä4]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "hijo de la gran puta",
+    "match": "(h+)([iíìîï1]+)(j+)([oóòôõö0]+)(s+)(d+)([eéèêë3]+)(l+)([aáàâãä4]+)(g+)(r+)([aáàâãä4]+)([nñ]+)(p+)([uúùûü]+)(t+)([aáàâãä4]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "hijo de puta",
+    "match": "(h+)([iíìîï1]+)(j+)([oóòôõö0]+)(s+)(d+)([eéèêë3]+)(p+)([uúùûü]+)(t+)([aáàâãä4]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "idiota",
+    "match": "([iíìîï1]+)(d+)([iíìîï1]+)([oóòôõö0]+)(t+)([aáàâãä4]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "imbécil",
+    "match": "([iíìîï1]+)(m+)(b+)([eéèêë3]+)(c+)([iíìîï1]+)(l+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "joder",
+    "match": "(j+)([oóòôõö0]+)(d+)([eéèêë3]+)(r+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "mamada",
+    "match": "\\b(m+)([aáàâãä4]+)(m+)([aáàâãä4]+)(d+)([aáàâãä4]+)\\b",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "mamón",
+    "match": "(m+)([aáàâãä4]+)(m+)([oóòôõö0]+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "maricón",
+    "match": "(m+)([aáàâãä4]+)(r+)([iíìîï1]+)(c+)([oóòôõö0]+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "me cago en tu puta madre",
+    "match": "(m+)([eéèêë3]+)(c+)([aáàâãä4]+)(g+)([oóòôõö0]+)([eéèêë3]+)([nñ]+)(t+)([uúùûü]+)(p+)([uúùûü]+)(t+)([aáàâãä4]+)(m+)([aáàâãä4]+)(d+)(r+)([eéèêë3]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "mierda",
+    "match": "(m+)([iíìîï1]+)([eéèêë3]+)(r+)(d+)([aáàâãä4]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "negro",
+    "match": "([nñ]+)([eéèêë3]+)(g+)(r+)([oóòôõö0]+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "no me jodas",
+    "match": "([nñ]+)([oóòôõö0]+)(m+)([eéèêë3]+)(j+)([oóòôõö0]+)(d+)([aáàâãä4]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "pendejo",
+    "match": "(p+)([eéèêë3]+)([nñ]+)(d+)([eéèêë3]+)(j+)([oóòôõö0]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "perra",
+    "match": "\\b(p+)([eéèêë3]+)(r+)([aáàâãä4]+)\\b",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "polla",
+    "match": "\\b(p+)([oóòôõö0]+)(l+)(l+)([aáàâãä4]+)\\b",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "puta",
+    "match": "\\b(p+)([uúùûü]+)(t+)([aáàâãä4]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "puta madre",
+    "match": "\\b(p+)([uúùûü]+)(t+)([aáàâãä4]+)(.)(m+)([aáàâãä4]+)(d+)(r+)([eéèêë3]+)",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "retrasado",
+    "match": "(r+)([eéèêë3]+)(t+)(r+)([aáàâãä4]+)(s+)([aáàâãä4]+)(d+)([oóòôõö0]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "subnormal",
+    "match": "(s+)([uúùûü]+)(b+)([nñ]+)([oóòôõö0]+)(r+)(m+)([aáàâãä4]+)(l+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "zorra",
+    "match": "\\b(z+)([oóòôõö0]+)(r+)([aáàâãä4]+)\\b",
+    "tags": [
+      "sexual"
+    ],
+    "severity": 2
+  }
+]

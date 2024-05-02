@@ -1,0 +1,139 @@
+[
+    {
+        "notes": "List of common spanish insults",
+        "severity": 3,
+        "tags": ["insults"],
+        "dictionary": [
+            {
+                "id": "puta",
+                "match": "\\b(p+)(u+)(t+)(a+)\\b"
+            },
+            {
+                "id": "cabron",
+                "match": "\\b(c+)(a+)(b+)(r+)(o+)(n+)\\b"
+            },
+            {
+                "id": "pendejo",
+                "match": "(p+)(e+)(n+)(d+)(e+)(j+)(o+)"
+            },
+            {
+                "id": "idiota",
+                "match": "(i+)(d+)(i+)(o+)(t+)(a+)"
+            },
+            {
+                "id": "subnormal",
+                "match": "(s+)(u+)(b+)(n+)(o+)(r+)(m+)(a+)(l+)"
+            },
+            {
+                "id": "gilipollas",
+                "match": "((g|j)+)(i+)(l+)(i+)(p+)(o+)(l+)(l+)(a+)(s+)"
+            },
+            {
+                "id": "mierda",
+                "match": "(m+)(i+)(e+)(r+)(d+)(a+)"
+            },
+            {
+                "id": "retrasado",
+                "match": "(r+)(e+)(t+)(r+)(a+)(s+)(a+)(d+)(o+)"
+            },
+            {
+                "id": "imbécil",
+                "match": "(i+)(m+)(b+)(e+)(c+)(i+)(l+)"
+            },
+            {
+                "id": "joder",
+                "match": "(j+)(o+)(d+)(e+)(r+)"
+            },
+            {
+                "id": "coño",
+                "match": "(c+)(o+)(ñ+)(o+)"
+            },
+            {
+                "id": "capullo",
+                "match": "(c+)(a+)(p+)(u+)(l+)(l+)(o+)"
+            },
+            {
+                "id": "gilipollas",
+                "match": "(g+)(i+)(l+)(i+)(p+)(o+)(l+)(l+)(a+)(s+)"
+            },
+            {
+                "id": "maricón",
+                "match": "(m+)(a+)(r+)(i+)(c+)(o+)(n+)"
+            },
+            {
+                "id": "cabrón",
+                "match": "(c+)(a+)(b+)(r+)(o+)(n+)"
+            },
+            {
+                "id": "hijo de puta",
+                "match": "(h+)(i+)(j+)(o+)(s+)(d+)(e+)(p+)(u+)(t+)(a+)"
+            },
+            {
+                "id": "hijo de la gran puta",
+                "match": "(h+)(i+)(j+)(o+)(s+)(d+)(e+)(l+)(a+)(g+)(r+)(a+)(n+)(p+)(u+)(t+)(a+)"
+            },
+            {
+                "id": "mamón",
+                "match": "(m+)(a+)(m+)(o+)(n+)"
+            },
+            {
+                "id": "me cago en tu puta madre",
+                "match": "(m+)(e+)(c+)(a+)(g+)(o+)(e+)(n+)(t+)(u+)(p+)(u+)(t+)(a+)(m+)(a+)(d+)(r+)(e+)"
+            },
+            {
+                "id": "no me jodas",
+                "match": "(n+)(o+)(m+)(e+)(j+)(o+)(d+)(a+)(s+)"
+            },
+            {
+                "id": "cago",
+                "match": "\\b(c+)(a+)(g+)(o+)\\b"
+            }
+        ]
+    },
+    {
+        "notes": "spanish racism",
+        "severity": 4,
+        "tags": ["racism"],
+        "dictionary": [
+            {
+                "id": "negro",
+                "match": "(n+)(e+)(g+)(r+)(o+)"
+            },
+            {
+                "id": "chamo",
+                "match": "\\b(c+)(h+)(a+)(m+)(o+)\\b"
+            }
+        ]
+    },
+    {
+        "notes": "spanish sexual",
+        "severity": 2,
+        "tags": ["sexual"],
+        "dictionary": [
+            {
+                "id": "mamada",
+                "match": "\\b(m+)(a+)(m+)(a+)(d+)(a+)\\b"
+            },
+            {
+                "id": "culo",
+                "match": "\\b(c+)(u+)(l+)(o+)"
+            },
+            {
+                "id": "puta madre",
+                "match": "\\b(p+)(u+)(t+)(a+)(.)(m+)(a+)(d+)(r+)(e+)"
+            },
+            {
+                "id": "perra",
+                "match": "\\b(p+)(e+)(r+)(a+)\\b"
+            },
+            {
+                "id": "zorra",
+                "match": "\\b(z+)(o+)(r+)(a+)\\b"
+            },
+            {
+                "id": "polla",
+                "match": "\\b(p+)(o+)(l+)(l+)(a+)\\b"
+            }
+        ]
+    }
+]

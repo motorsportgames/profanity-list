@@ -683,7 +683,7 @@
       },
       {
         "id": "sex",
-        "match": "sex",
+        "match": "\\b(s+)(e+)(x+)",
         "allow_partial": false
       },
       {
@@ -846,7 +846,7 @@
       },
       {
         "id": "rape",
-        "match": "rape",
+        "match": "\\b(r+a+p+e+)",
         "allow_partial": false
       },
       {
@@ -906,7 +906,7 @@
       },
       {
         "id": "clit",
-        "match": "clit",
+        "match": "\\b(clit)\\b",
         "exceptions": [
           "*ella",
           "*ellum",
@@ -931,11 +931,11 @@
       },
       {
         "id": "clitoris",
-        "match": "cli*tori*s"
+        "match": "\\b(cl)(i+)(tor)(i+)(s)"
       },
       {
         "id": "clunge",
-        "match": "clu*nge"
+        "match": "\\b(cl)(u+)(nge)"
       },
       {
         "id": "cornhole",
@@ -943,7 +943,7 @@
       },
       {
         "id": "cum",
-        "match": "cum",
+        "match": "\\b(c+u+m+)\\b",
         "allow_partial": false
       },
       {
@@ -996,7 +996,7 @@
       },
       {
         "id": "poon",
-        "match": "poon|poontang",
+        "match": "(\\b(poon)|poontang)",
         "exceptions": [
           "cram*",
           "cram*s",
@@ -1110,12 +1110,12 @@
     "dictionary": [
       {
         "id": "anal",
-        "match": "anal",
+        "match": "\\b(anal)\\b",
         "allow_partial": false
       },
       {
         "id": "arse",
-        "match": "arse",
+        "match": "\\b(arse)",
         "exceptions": [
           "*n",
           "cath*",
@@ -1292,7 +1292,7 @@
       },
       {
         "id": "dick",
-        "match": "di*ck",
+        "match": "\\b(d)(i)(ck)",
         "exceptions": [
           "*cissel",
           "*en",
@@ -1329,7 +1329,7 @@
       },
       {
         "id": "titty",
-        "match": "titt*y|titt*ies"
+        "match": "\\b(t(i+)(t+))((y+)|((y+)(s+))|((i+)(e+)(s+)))"
       },
       {
         "id": "wank",
@@ -1353,7 +1353,7 @@
     "dictionary": [
       {
         "id": "anus",
-        "match": "anus",
+        "match": "\\b(anus)\\b",
         "exceptions": [
           "m*",
           "m*cript",
@@ -1366,16 +1366,16 @@
       },
       {
         "id": "ass",
-        "match": "ass",
+        "match": "(\\b(a+)s(s+)\\b)",
         "allow_partial": false
       },
       {
         "id": "bollocks",
-        "match": "bo*ll*o*cks"
+        "match": "(b+)(o+)(l+)(o+)(c+)(k+)(.|\\b|s+)"
       },
       {
         "id": "boob",
-        "match": "boo*b",
+        "match": "\\b(bo)(o+)(b+)",
         "exceptions": [
           "*ird",
           "*oo"
@@ -1398,7 +1398,7 @@
       },
       {
         "id": "penis",
-        "match": "pe*ni*s",
+        "match": "\\b(p+)(e+)(n+)(i+)(s+)",
         "exceptions": [
           "top*h"
         ]
@@ -1481,7 +1481,7 @@
       },
       {
         "id": "snatch",
-        "match": "snatch"
+        "match": "her snatch"
       },
       {
         "id": "vagina",
@@ -1675,7 +1675,7 @@
       },
       {
         "id": "fag",
-        "match": "fa*g",
+        "match": "\\b(f+)(a+)(g+)",
         "exceptions": [
           "lea*e",
           "lea*es",
@@ -1691,7 +1691,7 @@
       },
       {
         "id": "faggot",
-        "match": "fa*gg*o*t|fagot"
+        "match": "(f+)(a+)(g+)(o+)(t+)"
       },
       {
         "id": "finocchio",
@@ -1904,7 +1904,7 @@
     "dictionary": [
       {
         "id": "nigger",
-        "match": "ni*gg*e*r"
+        "match": "(n+)(i+)(g+)(e+)(r+)"
       },
       {
         "id": "sand-nigger",
@@ -2002,11 +2002,11 @@
       },
       {
         "id": "kike",
-        "match": "ki*ke"
+        "match": "\\b(k+)(i+)(k+)(e+)\\b"
       },
       {
         "id": "nigga",
-        "match": "(ni*gg*a)|(ni.*gg.*s)|(nignog)|(nig nog)"
+        "match": "((n+)(i+)(g+)(a+))|(nignog)|(nig nog)"
       },
       {
         "id": "paki",
@@ -2238,7 +2238,7 @@
     "dictionary": [
       {
         "id": "jap",
-        "match": "jap",
+        "match": "\\bjap\\b",
         "exceptions": [
           "*an",
           "*anize",
@@ -2310,17 +2310,9 @@
   },
   {
     "notes": "List of religious slurs/profanity - medium",
-    "severity": 2,
+    "severity": 1,
     "tags": ["religious"],
     "dictionary": [
-      {
-        "id": "god-damn",
-        "match": "god damn|god-damn|goddamn|god damned|god-damned|goddamned"
-      },
-      {
-        "id": "jesus-christ",
-        "match": "je*su*s chri*st"
-      }
     ]
   },
   {
@@ -2329,8 +2321,16 @@
     "tags": ["religious"],
     "dictionary": [
       {
+        "id": "god-damn",
+        "match": "god damn|god-damn|goddamn|god damned|god-damned|goddamned"
+      },
+      {
+        "id": "jesus-christ",
+        "match": "\\b(j+)(e+)(s+)(u+)(s+)(.*)(c+)(h+)(r+)(i+)(s+)(t+)\\b"
+      },
+      {
         "id": "christ",
-        "match": "chri*st",
+        "match": "\\b(c+)(h+)(r+)(i+)(s+)(t+)\\b",
         "exceptions": [
           "*en",
           "*ian",
@@ -2340,11 +2340,11 @@
       },
       {
         "id": "damn",
-        "match": "da*mn"
+        "match": "\\b(d+)(a+)(m+)(n+)\\b"
       },
       {
         "id": "hell",
-        "match": "hell",
+        "match": "\\bhell\\b",
         "exceptions": [
           "*cat",
           "*er",
@@ -2362,7 +2362,7 @@
       },
       {
         "id": "jesus",
-        "match": "je*su*s",
+        "match": "\\b(j+)(e+)(s+)(u+)(s+)\\b",
         "exceptions": [
           "be*"
         ]
@@ -2380,14 +2380,14 @@
       },
       {
         "id": "cunt",
-        "match": "cu*n*t|ku*nt|cunts|kunts",
+        "match": "\\b((c|k)+)(u+)(n+)(t+)\\b",
         "exceptions": [
           "s*horpe"
         ]
       },
       {
         "id": "fuck",
-        "match": "fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king"
+        "match": "(f+)(u+)(c+)(k+)"
       },
       {
         "id": "fuckhead",
@@ -2418,11 +2418,11 @@
       },
       {
         "id": "bastard",
-        "match": "ba*sta*rd"
+        "match": "\\b(b+)(a+)(s+)(t+)(a+)(r+)(d+)"
       },
       {
         "id": "bellend",
-        "match": "bell*end",
+        "match": "\\b(bel)(l+)(e+)(n+)(d+)",
         "exceptions": [
           "*en"
         ]
@@ -2433,7 +2433,7 @@
       },
       {
         "id": "pussy",
-        "match": "pu*ss*y"
+        "match": "(p+)(u+)(s+)(y+)"
       },
       {
         "id": "shithead",
@@ -2441,7 +2441,7 @@
       },
       {
         "id": "twat",
-        "match": "twa*t",
+        "match": "\\b(t+)(w+)(a+)(t+)",
         "exceptions": [
           "cu*er",
           "mel*er",
@@ -2452,7 +2452,7 @@
       },
       {
         "id": "whore",
-        "match": "who*re"
+        "match": "\\b(w+)(h+)(o+)(r+)(e+)"
       }
     ]
   },
@@ -2494,8 +2494,16 @@
         "match": "retard|retarded"
       },
       {
+        "id": "gobshite",
+        "match": "gobshite"
+      },
+      {
+        "id": "shitface",
+        "match": "shitface"
+      },
+      {
         "id": "shit",
-        "match": "sh*i*t",
+        "match": "(\\b)(s+h+i+t+)(e+|\\b)",
         "exceptions": [
           "*ake",
           "mi*",
@@ -2505,7 +2513,7 @@
       },
       {
         "id": "shitty",
-        "match": "shi*tt*y"
+        "match": "\\b(sh)(i+)(t)(t+)(y+)"
       },
       {
         "id": "spastic",
@@ -2517,7 +2525,7 @@
       },
       {
         "id": "wanker",
-        "match": "wa*nker"
+        "match": "\\b(w+)(a+)(n+)(k+)(e+)(r+)"
       }
     ]
   },
@@ -2532,7 +2540,7 @@
       },
       {
         "id": "bugger",
-        "match": "bugg*er",
+        "match": "\\b(b+)(u+)(g)(g+)(e+)(r+)",
         "exceptions": [
           "de*",
           "hum*"
@@ -2540,7 +2548,7 @@
       },
       {
         "id": "crap",
-        "match": "cra*p",
+        "match": "\\b(c+)(r+)(a+)(p+)",
         "exceptions": [
           "*e",
           "*ing",

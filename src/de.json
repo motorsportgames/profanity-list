@@ -1,0 +1,130 @@
+[
+    {
+        "notes": "List of common german insults",
+        "severity": 3,
+        "tags": ["insults"],
+        "dictionary": [
+            {
+                "id": "wichser",
+                "match": "(w+)(i+)(c+)(h+)(s+)(e+)(r+)"
+            },
+            {
+                "id": "wixxer",
+                "match": "(w+)(i+)(x+)(x+)(e+)(r+)"
+            },
+            {
+                "id": "drecksau",
+                "match": "(d+)(r+)(e+)(c+)(k+)(s+)(a+)(u+)"
+            },
+            {
+                "id": "arschloch",
+                "match": "(a+)(r+)(s+)(c+)(h+)(l+)(o+)(c+)(h)"
+            },
+            {
+                "id": "scheisse",
+                "match": "(s+)(c+)(h+)(e+)(i+)((s|ß)+)((e|\\b)+)"
+            },
+            {
+                "id": "fick",
+                "match": "\\b(f+)(i+)(c+)(k+)\\b"
+            },
+            {
+                "id": "gefick",
+                "match": "\\b(g+)(e+)(f+)(i+)(c+)(k+)"
+            },
+            {
+                "id": "ficke",
+                "match": "\\b(f+)(i+)(c+)(k+)(e+)\\b"
+            },
+            {
+                "id": "ficken",
+                "match": "\\b(f+)(i+)(c+)(k+)(e+)(n+)\\b"
+            },
+            {
+                "id": "geh sterben",
+                "match": "(g+)(e+)(h+)(.+)(s+)(t+)(e+)(r+)(b+)(e+)(n+)"
+            },
+            {
+                "id": "halt die fresse",
+                "match": "(h+)(a+)(l+)(t+)(.+)(d+)(i+)(e+)(.+)(f+)(r+)(e+)((s|ß)+)((e|\\b)+)"
+            },
+            {
+                "id": "halt dein maul",
+                "match": "(h+)(a+)(l+)(t+)(.+)(d+)(i+)(e+)(.+)(m+)(a+)(u+)(l+)"
+            },
+            {
+                "id": "Bring dich um",
+                "match": "(b+)(r+)(i+)(n+)(g+)(.+)(d+)(i+)(c+)(.+)(u+)(m+)"
+            },
+            {
+                "id": "hurensohn",
+                "match": "(h+)((u|o)+)(r+)(e+)(n+)(s+)(o+)(h+)(n+)"
+            },
+            {
+                "id": "hurensohn",
+                "match": "(h+)((u|o)+)(r+)(e+)(n+)(.)(s+)(o+)(h+)(n+)"
+            }
+        ]
+    },
+    {
+        "notes": "german ableism",
+        "severity": 2,
+        "tags": ["ableism"],
+        "dictionary": [
+            {
+                "id": "behindert",
+                "match": "(b+)(e+)(h+)(i+)(n+)(d+)(e+)(r+)(t+)"
+            },
+            {
+                "id": "krüppel",
+                "match": "(k+)(r+)((ü|u)+)(p+)(e+)(l+)"
+            },
+            {
+                "id": "spasti",
+                "match": "(s+)(p+)(a+)(s+)(t+)((i|\\b)+)"
+            }
+        ]
+    },
+    {
+        "notes": "mysoginistic language",
+        "severity": 2,
+        "tags": ["sexism"],
+        "dictionary": [
+            {
+                "id": "schlampe",
+                "match": "(s+)(c+)(h+)(l+)(a+)(m+)(p+)(e+)"
+            },
+            {
+                "id": "hure",
+                "match": "\\b(h+)(u+)(r+)(e+)\\b"
+            },
+            {
+                "id": "nutte",
+                "match": "\\b(n+)(u+)(t+)(t+)(e+)"
+            },
+            {
+                "id": "fotze",
+                "match": "\\b(f+)(o+)(t+)(z+)(e+)"
+            }
+        ]
+    },
+    {
+        "notes": "german racism",
+        "severity": 4,
+        "tags": ["racism"],
+        "dictionary": [
+            {
+                "id": "neger",
+                "match": "\\b(n+)(e+)(g+)(e+)(r+)"
+            },
+            {
+                "id": "zigeuner",
+                "match": "(z+)(i+)(g+)(e+)(u+)(n+)(e+)(r+)"
+            },
+            {
+                "id": "kanake",
+                "match": "(k+)(a+)(n+)(a+)(k+)(e+)"
+            }
+        ]
+    }
+]

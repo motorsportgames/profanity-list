@@ -1,0 +1,202 @@
+[
+  {
+    "id": "arschloch",
+    "match": "([aáàâãä4]+)(r+)(s+)(c+)(h+)(l+)([oóòôõö0]+)(c+)(h)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "behindert",
+    "match": "(b+)([eéèêë3]+)(h+)([iíìîï1]+)([nñ]+)(d+)([eéèêë3]+)(r+)(t+)",
+    "tags": [
+      "ableism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "Bring dich um",
+    "match": "(b+)(r+)([iíìîï1]+)([nñ]+)(g+)(.+)(d+)([iíìîï1]+)(c+)(.+)([uúùûü]+)(m+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "drecksau",
+    "match": "(d+)(r+)([eéèêë3]+)(c+)(k+)(s+)([aáàâãä4]+)([uúùûü]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "fick",
+    "match": "\\b(f+)([iíìîï1]+)(c+)(k+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "ficke",
+    "match": "\\b(f+)([iíìîï1]+)(c+)(k+)([eéèêë3]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "ficken",
+    "match": "\\b(f+)([iíìîï1]+)(c+)(k+)([eéèêë3]+)([nñ]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "fotze",
+    "match": "\\b(f+)([oóòôõö0]+)(t+)(z+)([eéèêë3]+)",
+    "tags": [
+      "sexism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "gefick",
+    "match": "\\b(g+)([eéèêë3]+)(f+)([iíìîï1]+)(c+)(k+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "geh sterben",
+    "match": "(g+)([eéèêë3]+)(h+)(.+)(s+)(t+)([eéèêë3]+)(r+)(b+)([eéèêë3]+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "halt dein maul",
+    "match": "(h+)([aáàâãä4]+)(l+)(t+)(.+)(d+)([iíìîï1]+)([eéèêë3]+)(.+)(m+)([aáàâãä4]+)([uúùûü]+)(l+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "halt die fresse",
+    "match": "(h+)([aáàâãä4]+)(l+)(t+)(.+)(d+)([iíìîï1]+)([eéèêë3]+)(.+)(f+)(r+)([eéèêë3]+)((s|ß)+)(([eéèêë3]|\\b)+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "hure",
+    "match": "\\b(h+)([uúùûü]+)(r+)([eéèêë3]+)\\b",
+    "tags": [
+      "sexism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "hurensohn",
+    "match": "(h+)(([uúùûü]|[oóòôõö0])+)(r+)([eéèêë3]+)([nñ]+)(s+)([oóòôõö0]+)(h+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "hurensohn",
+    "match": "(h+)(([uúùûü]|[oóòôõö0])+)(r+)([eéèêë3]+)([nñ]+)(.)(s+)([oóòôõö0]+)(h+)([nñ]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "kanake",
+    "match": "(k+)([aáàâãä4]+)([nñ]+)([aáàâãä4]+)(k+)([eéèêë3]+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "krüppel",
+    "match": "(k+)(r+)((ü|[uúùûü])+)(p+)([eéèêë3]+)(l+)",
+    "tags": [
+      "ableism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "neger",
+    "match": "\\b([nñ]+)([eéèêë3]+)(g+)([eéèêë3]+)(r+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "nutte",
+    "match": "\\b([nñ]+)([uúùûü]+)(t+)(t+)([eéèêë3]+)",
+    "tags": [
+      "sexism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "scheisse",
+    "match": "(s+)(c+)(h+)([eéèêë3]+)([iíìîï1]+)((s|ß)+)(([eéèêë3]|\\b)+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "schlampe",
+    "match": "(s+)(c+)(h+)(l+)([aáàâãä4]+)(m+)(p+)([eéèêë3]+)",
+    "tags": [
+      "sexism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "spasti",
+    "match": "(s+)(p+)([aáàâãä4]+)(s+)(t+)(([iíìîï1]|\\b)+)",
+    "tags": [
+      "ableism"
+    ],
+    "severity": 2
+  },
+  {
+    "id": "wichser",
+    "match": "(w+)([iíìîï1]+)(c+)(h+)(s+)([eéèêë3]+)(r+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "wixxer",
+    "match": "(w+)([iíìîï1]+)(x+)(x+)([eéèêë3]+)(r+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "zigeuner",
+    "match": "(z+)([iíìîï1]+)(g+)([eéèêë3]+)([uúùûü]+)([nñ]+)([eéèêë3]+)(r+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  }
+]

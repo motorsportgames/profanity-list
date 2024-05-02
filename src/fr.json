@@ -1,0 +1,119 @@
+[
+    {
+        "notes": "List of common french insults",
+        "severity": 3,
+        "tags": ["insults"],
+        "dictionary": [
+            {
+                "id": "batard",
+                "match": "(b+)(a+)(t+)(a+)(r+)(d+)"
+            },
+            {
+                "id": "connard",
+                "match": "(c+)(o+)(n+)(n+)(a+)(r+)(d+)"
+            },
+            {
+                "id": "salope",
+                "match": "\\b(s+)(a+)(l+)(o+)(p+)(e+)\\b"
+            },
+            {
+                "id": "pute",
+                "match": "\\b(p+)(u+)(t+)(e+)\\b"
+            },
+            {
+                "id": "encule",
+                "match": "\\b(e+)(n+)(c+)(u+)(l+)(e+)\\b"
+            },
+            {
+                "id": "merde",
+                "match": "\\b(m+)(e+)(r+)(d+)(e+)\\b"
+            },
+            {
+                "id": "connasse",
+                "match": "(c+)(o+)(n+)(n+)(a+)(s+)(s+)(e+)"
+            },
+            {
+                "id": "enculer",
+                "match": "(e+)(n+)(c+)(u+)(l+)(e+)(r+)"
+            },
+            {
+                "id": "enculé",
+                "match": "(e+)(n+)(c+)(u+)(l+)(e+)"
+            },
+            {
+                "id": "enculée",
+                "match": "(e+)(n+)(c+)(u+)(l+)(e+)"
+            },
+            {
+                "id": "enculés",
+                "match": "(e+)(n+)(c+)(u+)(l+)(e+)(s+)"
+            },
+            {
+                "id": "enculées",
+                "match": "(e+)(n+)(c+)(u+)(l+)(e+)(s+)"
+            },
+            {
+                "id": "enculage",
+                "match": "(e+)(n+)(c+)(u+)(l+)(a+)(g+)(e+)"
+            },
+            {
+                "id": "enculages",
+                "match": "(e+)(n+)(c+)(u+)(l+)(a+)(g+)(e+)(s+)"
+            },
+            {
+                "id": "mongol",
+                "match": "\\b(m+)(o+)(n+)(g+)(o+)(l+)\\b"
+            }
+        ]
+    },
+    {
+        "notes": "French racism",
+        "severity": 4,
+        "tags": ["racism"],
+        "dictionary": [
+            {
+                "id": "negre",
+                "match": "\\b(n+)(((e)|i)+)(g+)(r+)(((e)|o)+)\\b"
+            },
+            {
+                "id": "bamboula",
+                "match": "(b+)(a+)(m+)(b+)(o+)(u+)(l+)(a+)"
+            },
+            {
+                "id": "bicot",
+                "match": "\\b(b+)(i+)(c+)(o+)(t+)\\b"
+            },
+            {
+                "id": "sale juif",
+                "match": "(s+)(a+)(l+)(e+)( )(j+)(u+)(i+)(f+)"
+            },
+            {
+                "id": "sale arabe",
+                "match": "(s+)(a+)(l+)(e+)( )(a+)(r+)(a+)(b+)"
+            },
+            {
+                "id": "sale noir",
+                "match": "(s+)(a+)(l+)(e+)( )(n+)(o+)(i+)(r+)"
+            }
+        ]
+    },
+    {
+        "notes": "french homophobia",
+        "severity": 3,
+        "tags": ["homophobia"],
+        "dictionary": [
+            {
+                "id": "pédé",
+                "match": "\\b(p+)(e+)(d+)(e+)\\b"
+            },
+            {
+                "id": "pédale",
+                "match": "\\b(p+)(e+)(d+)(a+)(l+)(e+)\\b"
+            },
+            {
+                "id": "pd",
+                "match": "\\b(p+)(d+)\\b"
+            }
+        ]
+    }
+]

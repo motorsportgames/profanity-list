@@ -1,0 +1,194 @@
+[
+  {
+    "id": "bamboula",
+    "match": "(b+)([aáàâãä4]+)(m+)(b+)([oóòôõö0]+)([uúùûü]+)(l+)([aáàâãä4]+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "batard",
+    "match": "(b+)([aáàâãä4]+)(t+)([aáàâãä4]+)(r+)(d+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "bicot",
+    "match": "\\b(b+)([iíìîï1]+)(c+)([oóòôõö0]+)(t+)\\b",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "connard",
+    "match": "(c+)([oóòôõö0]+)([nñ]+)([nñ]+)([aáàâãä4]+)(r+)(d+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "connasse",
+    "match": "(c+)([oóòôõö0]+)([nñ]+)([nñ]+)([aáàâãä4]+)(s+)(s+)([eéèêë3]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculage",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([aáàâãä4]+)(g+)([eéèêë3]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculages",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([aáàâãä4]+)(g+)([eéèêë3]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "encule",
+    "match": "\\b([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculer",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)(r+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculé",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculée",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculées",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "enculés",
+    "match": "([eéèêë3]+)([nñ]+)(c+)([uúùûü]+)(l+)([eéèêë3]+)(s+)",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "merde",
+    "match": "\\b(m+)([eéèêë3]+)(r+)(d+)([eéèêë3]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "mongol",
+    "match": "\\b(m+)([oóòôõö0]+)([nñ]+)(g+)([oóòôõö0]+)(l+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "negre",
+    "match": "\\b([nñ]+)((([eéèêë3])|[iíìîï1])+)(g+)(r+)((([eéèêë3])|[oóòôõö0])+)\\b",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "pd",
+    "match": "\\b(p+)(d+)\\b",
+    "tags": [
+      "homophobia"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "pute",
+    "match": "\\b(p+)([uúùûü]+)(t+)([eéèêë3]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "pédale",
+    "match": "\\b(p+)([eéèêë3]+)(d+)([aáàâãä4]+)(l+)([eéèêë3]+)\\b",
+    "tags": [
+      "homophobia"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "pédé",
+    "match": "\\b(p+)([eéèêë3]+)(d+)([eéèêë3]+)\\b",
+    "tags": [
+      "homophobia"
+    ],
+    "severity": 3
+  },
+  {
+    "id": "sale arabe",
+    "match": "(s+)([aáàâãä4]+)(l+)([eéèêë3]+)( )([aáàâãä4]+)(r+)([aáàâãä4]+)(b+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "sale juif",
+    "match": "(s+)([aáàâãä4]+)(l+)([eéèêë3]+)( )(j+)([uúùûü]+)([iíìîï1]+)(f+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "sale noir",
+    "match": "(s+)([aáàâãä4]+)(l+)([eéèêë3]+)( )([nñ]+)([oóòôõö0]+)([iíìîï1]+)(r+)",
+    "tags": [
+      "racism"
+    ],
+    "severity": 4
+  },
+  {
+    "id": "salope",
+    "match": "\\b(s+)([aáàâãä4]+)(l+)([oóòôõö0]+)(p+)([eéèêë3]+)\\b",
+    "tags": [
+      "insults"
+    ],
+    "severity": 3
+  }
+]

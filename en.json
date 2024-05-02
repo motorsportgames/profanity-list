@@ -1,7 +1,7 @@
 [
   {
     "id": "1man1jar",
-    "match": "1m1j|1man1jar|1 man 1 jar|one man one jar|one jar one man",
+    "match": "1m1j|1m[aáàâãä4][nñ]1j[aáàâãä4]r|1 m[aáàâãä4][nñ] 1 j[aáàâãä4]r|[oóòôõö0][nñ][eéèêë3] m[aáàâãä4][nñ] [oóòôõö0][nñ][eéèêë3] j[aáàâãä4]r|[oóòôõö0][nñ][eéèêë3] j[aáàâãä4]r [oóòôõö0][nñ][eéèêë3] m[aáàâãä4][nñ]",
     "tags": [
       "shock"
     ],
@@ -9,7 +9,7 @@
   },
   {
     "id": "2girls1cup",
-    "match": "2g1c|2girls1cup|2 girls 1 cup|two girls one cup|one cup two girls",
+    "match": "2g1c|2g[iíìîï1]rls1c[uúùûü]p|2 g[iíìîï1]rls 1 c[uúùûü]p|tw[oóòôõö0] g[iíìîï1]rls [oóòôõö0][nñ][eéèêë3] c[uúùûü]p|[oóòôõö0][nñ][eéèêë3] c[uúùûü]p tw[oóòôõö0] g[iíìîï1]rls",
     "tags": [
       "shock"
     ],
@@ -17,7 +17,7 @@
   },
   {
     "id": "acrotomophilia",
-    "match": "acrotomophilia|acrotomophile",
+    "match": "[aáàâãä4]cr[oóòôõö0]t[oóòôõö0]m[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[aáàâãä4]cr[oóòôõö0]t[oóòôõö0]m[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "id": "adjective-cock",
-    "match": "black cock|big cock|huge cock|giant cock|massive cock|throbbing cock",
+    "match": "bl[aáàâãä4]ck c[oóòôõö0]ck|b[iíìîï1]g c[oóòôõö0]ck|h[uúùûü]g[eéèêë3] c[oóòôõö0]ck|g[iíìîï1][aáàâãä4][nñ]t c[oóòôõö0]ck|m[aáàâãä4]ss[iíìîï1]v[eéèêë3] c[oóòôõö0]ck|thr[oóòôõö0]bb[iíìîï1][nñ]g c[oóòôõö0]ck",
     "tags": [
       "sexual"
     ],
@@ -33,7 +33,7 @@
   },
   {
     "id": "alabama-hot-pocket",
-    "match": "alabama hot pocket",
+    "match": "[aáàâãä4]l[aáàâãä4]b[aáàâãä4]m[aáàâãä4] h[oóòôõö0]t p[oóòôõö0]ck[eéèêë3]t",
     "tags": [
       "sexual"
     ],
@@ -41,7 +41,7 @@
   },
   {
     "id": "alabama-tuna-melt",
-    "match": "alabama tuna melt",
+    "match": "[aáàâãä4]l[aáàâãä4]b[aáàâãä4]m[aáàâãä4] t[uúùûü][nñ][aáàâãä4] m[eéèêë3]lt",
     "tags": [
       "sexual"
     ],
@@ -49,7 +49,7 @@
   },
   {
     "id": "alaskan-pipeline",
-    "match": "alaskan pipeline",
+    "match": "[aáàâãä4]l[aáàâãä4]sk[aáàâãä4][nñ] p[iíìîï1]p[eéèêë3]l[iíìîï1][nñ][eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -57,7 +57,7 @@
   },
   {
     "id": "algophilia",
-    "match": "algophilia|algophile",
+    "match": "[aáàâãä4]lg[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[aáàâãä4]lg[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -65,7 +65,7 @@
   },
   {
     "id": "anal",
-    "match": "anal",
+    "match": "\\b([aáàâãä4][nñ][aáàâãä4]l)\\b",
     "tags": [
       "sexual"
     ],
@@ -73,7 +73,7 @@
   },
   {
     "id": "anal-assassin",
-    "match": "anal assassin",
+    "match": "[aáàâãä4][nñ][aáàâãä4]l [aáàâãä4]ss[aáàâãä4]ss[iíìîï1][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -81,7 +81,7 @@
   },
   {
     "id": "anal-astronaut",
-    "match": "anal astronaut",
+    "match": "[aáàâãä4][nñ][aáàâãä4]l [aáàâãä4]str[oóòôõö0][nñ][aáàâãä4][uúùûü]t",
     "tags": [
       "lgbtq"
     ],
@@ -89,7 +89,7 @@
   },
   {
     "id": "anilingus",
-    "match": "anilingus",
+    "match": "[aáàâãä4][nñ][iíìîï1]l[iíìîï1][nñ]g[uúùûü]s",
     "tags": [
       "sexual"
     ],
@@ -97,7 +97,7 @@
   },
   {
     "id": "anus",
-    "match": "anus",
+    "match": "\\b([aáàâãä4][nñ][uúùûü]s)\\b",
     "tags": [
       "sexual"
     ],
@@ -114,7 +114,7 @@
   },
   {
     "id": "apeshit",
-    "match": "apeshit|ape-shit|ape shit",
+    "match": "[aáàâãä4]p[eéèêë3]sh[iíìîï1]t|[aáàâãä4]p[eéèêë3]-sh[iíìîï1]t|[aáàâãä4]p[eéèêë3] sh[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -122,7 +122,7 @@
   },
   {
     "id": "apotemnophilia",
-    "match": "apotemnophilia|apotemnophile",
+    "match": "[aáàâãä4]p[oóòôõö0]t[eéèêë3]m[nñ][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[aáàâãä4]p[oóòôõö0]t[eéèêë3]m[nñ][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -130,7 +130,7 @@
   },
   {
     "id": "arse",
-    "match": "arse",
+    "match": "\\b([aáàâãä4]rs[eéèêë3])",
     "tags": [
       "sexual"
     ],
@@ -149,7 +149,7 @@
   },
   {
     "id": "arsehole",
-    "match": "arseho*le|ass*ho*le",
+    "match": "[aáàâãä4]rs[eéèêë3]h[oóòôõö0]*l[eéèêë3]|[aáàâãä4]ss*h[oóòôõö0]*l[eéèêë3]",
     "tags": [
       "general"
     ],
@@ -157,7 +157,7 @@
   },
   {
     "id": "ass",
-    "match": "ass",
+    "match": "(\\b([aáàâãä4]+)s(s+)\\b)",
     "tags": [
       "sexual"
     ],
@@ -165,7 +165,7 @@
   },
   {
     "id": "ass-bandit",
-    "match": "ass bandit|arse bandit",
+    "match": "[aáàâãä4]ss b[aáàâãä4][nñ]d[iíìîï1]t|[aáàâãä4]rs[eéèêë3] b[aáàâãä4][nñ]d[iíìîï1]t",
     "tags": [
       "lgbtq"
     ],
@@ -173,7 +173,7 @@
   },
   {
     "id": "autoerotic|auto erotic",
-    "match": "autoerotic|auto erotic",
+    "match": "[aáàâãä4][uúùûü]t[oóòôõö0][eéèêë3]r[oóòôõö0]t[iíìîï1]c|[aáàâãä4][uúùûü]t[oóòôõö0] [eéèêë3]r[oóòôõö0]t[iíìîï1]c",
     "tags": [
       "sexual"
     ],
@@ -181,7 +181,7 @@
   },
   {
     "id": "babeland",
-    "match": "babeland",
+    "match": "b[aáàâãä4]b[eéèêë3]l[aáàâãä4][nñ]d",
     "tags": [
       "sexual"
     ],
@@ -189,7 +189,7 @@
   },
   {
     "id": "baby-batter",
-    "match": "baby batter|baby gravy|baby juice|ball batter|ball gravy",
+    "match": "b[aáàâãä4]by b[aáàâãä4]tt[eéèêë3]r|b[aáàâãä4]by gr[aáàâãä4]vy|b[aáàâãä4]by j[uúùûü][iíìîï1]c[eéèêë3]|b[aáàâãä4]ll b[aáàâãä4]tt[eéèêë3]r|b[aáàâãä4]ll gr[aáàâãä4]vy",
     "tags": [
       "sexual"
     ],
@@ -197,7 +197,7 @@
   },
   {
     "id": "ball-gag",
-    "match": "ball gag|ball-gag|ballgag",
+    "match": "b[aáàâãä4]ll g[aáàâãä4]g|b[aáàâãä4]ll-g[aáàâãä4]g|b[aáàâãä4]llg[aáàâãä4]g",
     "tags": [
       "sexual"
     ],
@@ -205,7 +205,7 @@
   },
   {
     "id": "ball-kicking",
-    "match": "ball kicking|ball-kicking",
+    "match": "b[aáàâãä4]ll k[iíìîï1]ck[iíìîï1][nñ]g|b[aáàâãä4]ll-k[iíìîï1]ck[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -213,7 +213,7 @@
   },
   {
     "id": "ball-licking",
-    "match": "ball licking|ball-licking",
+    "match": "b[aáàâãä4]ll l[iíìîï1]ck[iíìîï1][nñ]g|b[aáàâãä4]ll-l[iíìîï1]ck[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -221,7 +221,7 @@
   },
   {
     "id": "ball-sack",
-    "match": "ball sack",
+    "match": "b[aáàâãä4]ll s[aáàâãä4]ck",
     "tags": [
       "sexual"
     ],
@@ -229,7 +229,7 @@
   },
   {
     "id": "ball-sucking",
-    "match": "ball sucking|ball-sucking",
+    "match": "b[aáàâãä4]ll s[uúùûü]ck[iíìîï1][nñ]g|b[aáàâãä4]ll-s[uúùûü]ck[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -237,7 +237,7 @@
   },
   {
     "id": "ballcuzi",
-    "match": "ballcuzi",
+    "match": "b[aáàâãä4]llc[uúùûü]z[iíìîï1]",
     "tags": [
       "sexual"
     ],
@@ -245,7 +245,7 @@
   },
   {
     "id": "bangbros",
-    "match": "bangbros|bang bros",
+    "match": "b[aáàâãä4][nñ]gbr[oóòôõö0]s|b[aáàâãä4][nñ]g br[oóòôõö0]s",
     "tags": [
       "sexual"
     ],
@@ -253,7 +253,7 @@
   },
   {
     "id": "bangbus",
-    "match": "bangbus|bang bus",
+    "match": "b[aáàâãä4][nñ]gb[uúùûü]s|b[aáàâãä4][nñ]g b[uúùûü]s",
     "tags": [
       "sexual"
     ],
@@ -261,7 +261,7 @@
   },
   {
     "id": "bareback",
-    "match": "bareback",
+    "match": "b[aáàâãä4]r[eéèêë3]b[aáàâãä4]ck",
     "tags": [
       "sexual"
     ],
@@ -269,7 +269,7 @@
   },
   {
     "id": "barely-legal",
-    "match": "barely legal",
+    "match": "b[aáàâãä4]r[eéèêë3]ly l[eéèêë3]g[aáàâãä4]l",
     "tags": [
       "sexual"
     ],
@@ -277,7 +277,7 @@
   },
   {
     "id": "bastard",
-    "match": "ba*sta*rd",
+    "match": "\\b(b+)([aáàâãä4]+)(s+)(t+)([aáàâãä4]+)(r+)(d+)",
     "tags": [
       "general"
     ],
@@ -285,7 +285,7 @@
   },
   {
     "id": "bastinado",
-    "match": "bastinado",
+    "match": "b[aáàâãä4]st[iíìîï1][nñ][aáàâãä4]d[oóòôõö0]",
     "tags": [
       "sexual"
     ],
@@ -293,7 +293,7 @@
   },
   {
     "id": "batty-boy",
-    "match": "batty boy|battyboy|batty boi|battyboi",
+    "match": "b[aáàâãä4]tty b[oóòôõö0]y|b[aáàâãä4]ttyb[oóòôõö0]y|b[aáàâãä4]tty b[oóòôõö0][iíìîï1]|b[aáàâãä4]ttyb[oóòôõö0][iíìîï1]",
     "tags": [
       "lgbtq"
     ],
@@ -309,7 +309,7 @@
   },
   {
     "id": "bean-flicker",
-    "match": "bean flicker|bean-flicker|beanflicker",
+    "match": "b[eéèêë3][aáàâãä4][nñ] fl[iíìîï1]ck[eéèêë3]r|b[eéèêë3][aáàâãä4][nñ]-fl[iíìîï1]ck[eéèêë3]r|b[eéèêë3][aáàâãä4][nñ]fl[iíìîï1]ck[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -317,7 +317,7 @@
   },
   {
     "id": "bean-queen",
-    "match": "bean queen",
+    "match": "b[eéèêë3][aáàâãä4][nñ] q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -325,7 +325,7 @@
   },
   {
     "id": "beaner",
-    "match": "beaner|beaners",
+    "match": "b[eéèêë3][aáàâãä4][nñ][eéèêë3]r|b[eéèêë3][aáàâãä4][nñ][eéèêë3]rs",
     "tags": [
       "racial"
     ],
@@ -337,7 +337,7 @@
   },
   {
     "id": "beastiality",
-    "match": "beastiality|beestiality|bestiality",
+    "match": "b[eéèêë3][aáàâãä4]st[iíìîï1][aáàâãä4]l[iíìîï1]ty|b[eéèêë3][eéèêë3]st[iíìîï1][aáàâãä4]l[iíìîï1]ty|b[eéèêë3]st[iíìîï1][aáàâãä4]l[iíìîï1]ty",
     "tags": [
       "sexual"
     ],
@@ -345,7 +345,7 @@
   },
   {
     "id": "beaver-cleaver",
-    "match": "beaver cleaver",
+    "match": "b[eéèêë3][aáàâãä4]v[eéèêë3]r cl[eéèêë3][aáàâãä4]v[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -353,7 +353,7 @@
   },
   {
     "id": "beaver-lips",
-    "match": "beaver lips",
+    "match": "b[eéèêë3][aáàâãä4]v[eéèêë3]r l[iíìîï1]ps",
     "tags": [
       "sexual"
     ],
@@ -361,7 +361,7 @@
   },
   {
     "id": "bellend",
-    "match": "bell*end",
+    "match": "\\b(b[eéèêë3]l)(l+)([eéèêë3]+)([nñ]+)(d+)",
     "tags": [
       "general"
     ],
@@ -372,7 +372,7 @@
   },
   {
     "id": "bellesa",
-    "match": "bellesa",
+    "match": "b[eéèêë3]ll[eéèêë3]s[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -380,7 +380,7 @@
   },
   {
     "id": "bicon",
-    "match": "bicon",
+    "match": "b[iíìîï1]c[oóòôõö0][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -396,7 +396,7 @@
   },
   {
     "id": "big-boobs",
-    "match": "big boobs|big breasts|big knockers|big tits",
+    "match": "b[iíìîï1]g b[oóòôõö0][oóòôõö0]bs|b[iíìîï1]g br[eéèêë3][aáàâãä4]sts|b[iíìîï1]g k[nñ][oóòôõö0]ck[eéèêë3]rs|b[iíìîï1]g t[iíìîï1]ts",
     "tags": [
       "sexual"
     ],
@@ -404,7 +404,7 @@
   },
   {
     "id": "birdlock",
-    "match": "birdlock",
+    "match": "b[iíìîï1]rdl[oóòôõö0]ck",
     "tags": [
       "sexual"
     ],
@@ -412,7 +412,7 @@
   },
   {
     "id": "bitch",
-    "match": "bi*tch|bi*tches",
+    "match": "b[iíìîï1]*tch|b[iíìîï1]*tch[eéèêë3]s",
     "tags": [
       "general"
     ],
@@ -420,7 +420,7 @@
   },
   {
     "id": "bloody",
-    "match": "bloody",
+    "match": "bl[oóòôõö0][oóòôõö0]dy",
     "tags": [
       "general"
     ],
@@ -428,7 +428,7 @@
   },
   {
     "id": "blow-your-load",
-    "match": "blow your load",
+    "match": "bl[oóòôõö0]w y[oóòôõö0][uúùûü]r l[oóòôõö0][aáàâãä4]d",
     "tags": [
       "sexual"
     ],
@@ -436,7 +436,7 @@
   },
   {
     "id": "blowjob",
-    "match": "blowjob|blow-job|blow job",
+    "match": "bl[oóòôõö0]wj[oóòôõö0]b|bl[oóòôõö0]w-j[oóòôõö0]b|bl[oóòôõö0]w j[oóòôõö0]b",
     "tags": [
       "sexual"
     ],
@@ -444,7 +444,7 @@
   },
   {
     "id": "blue-waffle",
-    "match": "blue waffle|bluewaffle",
+    "match": "bl[uúùûü][eéèêë3] w[aáàâãä4]ffl[eéèêë3]|bl[uúùûü][eéèêë3]w[aáàâãä4]ffl[eéèêë3]",
     "tags": [
       "shock"
     ],
@@ -452,7 +452,7 @@
   },
   {
     "id": "blumpkin",
-    "match": "blumpkin",
+    "match": "bl[uúùûü]mpk[iíìîï1][nñ]",
     "tags": [
       "sexual"
     ],
@@ -460,7 +460,7 @@
   },
   {
     "id": "bollocks",
-    "match": "bo*ll*o*cks",
+    "match": "(b+)([oóòôõö0]+)(l+)([oóòôõö0]+)(c+)(k+)(.|\\b|s+)",
     "tags": [
       "sexual"
     ],
@@ -468,7 +468,7 @@
   },
   {
     "id": "bone-smuggler",
-    "match": "bone smuggler|bone-smuggler|bonesmuggler",
+    "match": "b[oóòôõö0][nñ][eéèêë3] sm[uúùûü]ggl[eéèêë3]r|b[oóòôõö0][nñ][eéèêë3]-sm[uúùûü]ggl[eéèêë3]r|b[oóòôõö0][nñ][eéèêë3]sm[uúùûü]ggl[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -476,7 +476,7 @@
   },
   {
     "id": "boner",
-    "match": "boner|raging boner|throbbing boner",
+    "match": "b[oóòôõö0][nñ][eéèêë3]r|r[aáàâãä4]g[iíìîï1][nñ]g b[oóòôõö0][nñ][eéèêë3]r|thr[oóòôõö0]bb[iíìîï1][nñ]g b[oóòôõö0][nñ][eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -484,7 +484,7 @@
   },
   {
     "id": "boob",
-    "match": "boo*b",
+    "match": "\\b(b[oóòôõö0])([oóòôõö0]+)(b+)",
     "tags": [
       "sexual"
     ],
@@ -496,7 +496,7 @@
   },
   {
     "id": "booty-buffer",
-    "match": "booty buffer|booty-buffer",
+    "match": "b[oóòôõö0][oóòôõö0]ty b[uúùûü]ff[eéèêë3]r|b[oóòôõö0][oóòôõö0]ty-b[uúùûü]ff[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -504,7 +504,7 @@
   },
   {
     "id": "booty-call",
-    "match": "booty call",
+    "match": "b[oóòôõö0][oóòôõö0]ty c[aáàâãä4]ll",
     "tags": [
       "sexual"
     ],
@@ -512,7 +512,7 @@
   },
   {
     "id": "boston-george",
-    "match": "boston george",
+    "match": "b[oóòôõö0]st[oóòôõö0][nñ] g[eéèêë3][oóòôõö0]rg[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -520,7 +520,7 @@
   },
   {
     "id": "breasts",
-    "match": "breasts",
+    "match": "br[eéèêë3][aáàâãä4]sts",
     "tags": [
       "sexual"
     ],
@@ -531,7 +531,7 @@
   },
   {
     "id": "brown-piper",
-    "match": "brown piper|brown-piper|brownpiper",
+    "match": "br[oóòôõö0]w[nñ] p[iíìîï1]p[eéèêë3]r|br[oóòôõö0]w[nñ]-p[iíìîï1]p[eéèêë3]r|br[oóòôõö0]w[nñ]p[iíìîï1]p[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -539,7 +539,7 @@
   },
   {
     "id": "brown-shower",
-    "match": "brown shower|brown showers",
+    "match": "br[oóòôõö0]w[nñ] sh[oóòôõö0]w[eéèêë3]r|br[oóòôõö0]w[nñ] sh[oóòôõö0]w[eéèêë3]rs",
     "tags": [
       "sexual"
     ],
@@ -547,7 +547,7 @@
   },
   {
     "id": "brownie-royalty",
-    "match": "brownie king|brownie queen",
+    "match": "br[oóòôõö0]w[nñ][iíìîï1][eéèêë3] k[iíìîï1][nñ]g|br[oóòôõö0]w[nñ][iíìîï1][eéèêë3] q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -555,7 +555,7 @@
   },
   {
     "id": "buddhahead",
-    "match": "buddhahead|buddha head|buddha-head",
+    "match": "b[uúùûü]ddh[aáàâãä4]h[eéèêë3][aáàâãä4]d|b[uúùûü]ddh[aáàâãä4] h[eéèêë3][aáàâãä4]d|b[uúùûü]ddh[aáàâãä4]-h[eéèêë3][aáàâãä4]d",
     "tags": [
       "racial"
     ],
@@ -563,7 +563,7 @@
   },
   {
     "id": "bufter",
-    "match": "bufter|bufty",
+    "match": "b[uúùûü]ft[eéèêë3]r|b[uúùûü]fty",
     "tags": [
       "lgbtq"
     ],
@@ -571,7 +571,7 @@
   },
   {
     "id": "bugger",
-    "match": "bugg*er",
+    "match": "\\b(b+)([uúùûü]+)(g)(g+)([eéèêë3]+)(r+)",
     "tags": [
       "general"
     ],
@@ -583,7 +583,7 @@
   },
   {
     "id": "bukkake",
-    "match": "bukkake",
+    "match": "b[uúùûü]kk[aáàâãä4]k[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -591,7 +591,7 @@
   },
   {
     "id": "bulldyke",
-    "match": "bulldyke",
+    "match": "b[uúùûü]lldyk[eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -599,7 +599,7 @@
   },
   {
     "id": "bullet-vibe",
-    "match": "bullet vibe|bullet vibrator",
+    "match": "b[uúùûü]ll[eéèêë3]t v[iíìîï1]b[eéèêë3]|b[uúùûü]ll[eéèêë3]t v[iíìîï1]br[aáàâãä4]t[oóòôõö0]r",
     "tags": [
       "sexual"
     ],
@@ -607,7 +607,7 @@
   },
   {
     "id": "bullshit",
-    "match": "bullshit|bull-shit|bull shit",
+    "match": "b[uúùûü]llsh[iíìîï1]t|b[uúùûü]ll-sh[iíìîï1]t|b[uúùûü]ll sh[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -615,7 +615,7 @@
   },
   {
     "id": "bum-chum",
-    "match": "bum chum|bum-chum|bumchum",
+    "match": "b[uúùûü]m ch[uúùûü]m|b[uúùûü]m-ch[uúùûü]m|b[uúùûü]mch[uúùûü]m",
     "tags": [
       "lgbtq"
     ],
@@ -623,7 +623,7 @@
   },
   {
     "id": "bum-driller",
-    "match": "bum driller|bum-driller|bumdriller",
+    "match": "b[uúùûü]m dr[iíìîï1]ll[eéèêë3]r|b[uúùûü]m-dr[iíìîï1]ll[eéèêë3]r|b[uúùûü]mdr[iíìîï1]ll[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -631,7 +631,7 @@
   },
   {
     "id": "butt-boy",
-    "match": "butt boy|butt-boy|buttboy|bum boy|bum-boy|bumboy",
+    "match": "b[uúùûü]tt b[oóòôõö0]y|b[uúùûü]tt-b[oóòôõö0]y|b[uúùûü]ttb[oóòôõö0]y|b[uúùûü]m b[oóòôõö0]y|b[uúùûü]m-b[oóòôõö0]y|b[uúùûü]mb[oóòôõö0]y",
     "tags": [
       "lgbtq"
     ],
@@ -639,7 +639,7 @@
   },
   {
     "id": "butt-pilot",
-    "match": "butt pilot|bum pilot",
+    "match": "b[uúùûü]tt p[iíìîï1]l[oóòôõö0]t|b[uúùûü]m p[iíìîï1]l[oóòôõö0]t",
     "tags": [
       "lgbtq"
     ],
@@ -647,7 +647,7 @@
   },
   {
     "id": "butt-pirate",
-    "match": "butt pirate|butt-pirate|bum pirate|bum-pirate",
+    "match": "b[uúùûü]tt p[iíìîï1]r[aáàâãä4]t[eéèêë3]|b[uúùûü]tt-p[iíìîï1]r[aáàâãä4]t[eéèêë3]|b[uúùûü]m p[iíìîï1]r[aáàâãä4]t[eéèêë3]|b[uúùûü]m-p[iíìîï1]r[aáàâãä4]t[eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -655,7 +655,7 @@
   },
   {
     "id": "butt-rider",
-    "match": "butt rider|buttrider|bum rider|bumrider",
+    "match": "b[uúùûü]tt r[iíìîï1]d[eéèêë3]r|b[uúùûü]ttr[iíìîï1]d[eéèêë3]r|b[uúùûü]m r[iíìîï1]d[eéèêë3]r|b[uúùûü]mr[iíìîï1]d[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -663,7 +663,7 @@
   },
   {
     "id": "butt-robber",
-    "match": "butt robber|butt-robber|buttrobber|bum robber|bum-robber|bumrobber",
+    "match": "b[uúùûü]tt r[oóòôõö0]bb[eéèêë3]r|b[uúùûü]tt-r[oóòôõö0]bb[eéèêë3]r|b[uúùûü]ttr[oóòôõö0]bb[eéèêë3]r|b[uúùûü]m r[oóòôõö0]bb[eéèêë3]r|b[uúùûü]m-r[oóòôõö0]bb[eéèêë3]r|b[uúùûü]mr[oóòôõö0]bb[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -671,7 +671,7 @@
   },
   {
     "id": "butt-rustler",
-    "match": "butt rustler|bum rustler",
+    "match": "b[uúùûü]tt r[uúùûü]stl[eéèêë3]r|b[uúùûü]m r[uúùûü]stl[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -679,7 +679,7 @@
   },
   {
     "id": "butthole-engineer",
-    "match": "butthole engineer|bumhole engineer",
+    "match": "b[uúùûü]tth[oóòôõö0]l[eéèêë3] [eéèêë3][nñ]g[iíìîï1][nñ][eéèêë3][eéèêë3]r|b[uúùûü]mh[oóòôõö0]l[eéèêë3] [eéèêë3][nñ]g[iíìîï1][nñ][eéèêë3][eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -687,7 +687,7 @@
   },
   {
     "id": "camel-jockey",
-    "match": "camel jockey|cameljockey|camel jockies|cameljockies",
+    "match": "c[aáàâãä4]m[eéèêë3]l j[oóòôõö0]ck[eéèêë3]y|c[aáàâãä4]m[eéèêë3]lj[oóòôõö0]ck[eéèêë3]y|c[aáàâãä4]m[eéèêë3]l j[oóòôõö0]ck[iíìîï1][eéèêë3]s|c[aáàâãä4]m[eéèêë3]lj[oóòôõö0]ck[iíìîï1][eéèêë3]s",
     "tags": [
       "racial"
     ],
@@ -695,7 +695,7 @@
   },
   {
     "id": "camel-toe",
-    "match": "camel toe",
+    "match": "c[aáàâãä4]m[eéèêë3]l t[oóòôõö0][eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -703,7 +703,7 @@
   },
   {
     "id": "canadian-porch-swing",
-    "match": "canadian porch swing",
+    "match": "c[aáàâãä4][nñ][aáàâãä4]d[iíìîï1][aáàâãä4][nñ] p[oóòôõö0]rch sw[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -711,7 +711,7 @@
   },
   {
     "id": "carpet-muncher",
-    "match": "carpet muncher|carpetmuncher",
+    "match": "c[aáàâãä4]rp[eéèêë3]t m[uúùûü][nñ]ch[eéèêë3]r|c[aáàâãä4]rp[eéèêë3]tm[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -719,7 +719,7 @@
   },
   {
     "id": "cheese-monkey",
-    "match": "cheese-eating surrender monkey|cheese eating surrender monkey",
+    "match": "ch[eéèêë3][eéèêë3]s[eéèêë3]-[eéèêë3][aáàâãä4]t[iíìîï1][nñ]g s[uúùûü]rr[eéèêë3][nñ]d[eéèêë3]r m[oóòôõö0][nñ]k[eéèêë3]y|ch[eéèêë3][eéèêë3]s[eéèêë3] [eéèêë3][aáàâãä4]t[iíìîï1][nñ]g s[uúùûü]rr[eéèêë3][nñ]d[eéèêë3]r m[oóòôõö0][nñ]k[eéèêë3]y",
     "tags": [
       "racial"
     ],
@@ -727,7 +727,7 @@
   },
   {
     "id": "chi-chi-man",
-    "match": "chi chi man|chi-chi man",
+    "match": "ch[iíìîï1] ch[iíìîï1] m[aáàâãä4][nñ]|ch[iíìîï1]-ch[iíìîï1] m[aáàâãä4][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -735,7 +735,7 @@
   },
   {
     "id": "chicken-queen",
-    "match": "chicken queen",
+    "match": "ch[iíìîï1]ck[eéèêë3][nñ] q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -743,7 +743,7 @@
   },
   {
     "id": "chinaman",
-    "match": "chinaman|china man|chinamen|china men",
+    "match": "ch[iíìîï1][nñ][aáàâãä4]m[aáàâãä4][nñ]|ch[iíìîï1][nñ][aáàâãä4] m[aáàâãä4][nñ]|ch[iíìîï1][nñ][aáàâãä4]m[eéèêë3][nñ]|ch[iíìîï1][nñ][aáàâãä4] m[eéèêë3][nñ]",
     "tags": [
       "racial"
     ],
@@ -751,7 +751,7 @@
   },
   {
     "id": "ching-chong",
-    "match": "ching-chong|ching chong",
+    "match": "ch[iíìîï1][nñ]g-ch[oóòôõö0][nñ]g|ch[iíìîï1][nñ]g ch[oóòôõö0][nñ]g",
     "tags": [
       "racial"
     ],
@@ -759,7 +759,7 @@
   },
   {
     "id": "chink",
-    "match": "chink|chinks|chinky",
+    "match": "ch[iíìîï1][nñ]k|ch[iíìîï1][nñ]ks|ch[iíìîï1][nñ]ky",
     "tags": [
       "racial"
     ],
@@ -777,7 +777,7 @@
   },
   {
     "id": "chocolate-rosebud",
-    "match": "chocolate rosebud|chocolate rosebuds",
+    "match": "ch[oóòôõö0]c[oóòôõö0]l[aáàâãä4]t[eéèêë3] r[oóòôõö0]s[eéèêë3]b[uúùûü]d|ch[oóòôõö0]c[oóòôõö0]l[aáàâãä4]t[eéèêë3] r[oóòôõö0]s[eéèêë3]b[uúùûü]ds",
     "tags": [
       "sexual"
     ],
@@ -785,7 +785,7 @@
   },
   {
     "id": "cholerophilia",
-    "match": "cholerophilia|cholerophile",
+    "match": "ch[oóòôõö0]l[eéèêë3]r[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|ch[oóòôõö0]l[eéèêë3]r[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -793,7 +793,7 @@
   },
   {
     "id": "christ",
-    "match": "chri*st",
+    "match": "\\b(c+)(h+)(r+)([iíìîï1]+)(s+)(t+)\\b",
     "tags": [
       "religious"
     ],
@@ -807,7 +807,7 @@
   },
   {
     "id": "cialis",
-    "match": "cialis",
+    "match": "c[iíìîï1][aáàâãä4]l[iíìîï1]s",
     "tags": [
       "sexual"
     ],
@@ -815,7 +815,7 @@
   },
   {
     "id": "circlejerk",
-    "match": "circlejerk|circle-jerk",
+    "match": "c[iíìîï1]rcl[eéèêë3]j[eéèêë3]rk|c[iíìîï1]rcl[eéèêë3]-j[eéèêë3]rk",
     "tags": [
       "sexual"
     ],
@@ -823,7 +823,7 @@
   },
   {
     "id": "cishet",
-    "match": "cishet",
+    "match": "c[iíìîï1]sh[eéèêë3]t",
     "tags": [
       "lgbtq"
     ],
@@ -831,7 +831,7 @@
   },
   {
     "id": "cissy",
-    "match": "cissy|cissie",
+    "match": "c[iíìîï1]ssy|c[iíìîï1]ss[iíìîï1][eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -839,7 +839,7 @@
   },
   {
     "id": "claustrophilia",
-    "match": "claustrophilia|claustrophile",
+    "match": "cl[aáàâãä4][uúùûü]str[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|cl[aáàâãä4][uúùûü]str[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -847,7 +847,7 @@
   },
   {
     "id": "cleveland-accordion",
-    "match": "cleveland accordion",
+    "match": "cl[eéèêë3]v[eéèêë3]l[aáàâãä4][nñ]d [aáàâãä4]cc[oóòôõö0]rd[iíìîï1][oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -855,7 +855,7 @@
   },
   {
     "id": "cleveland-hot-waffle",
-    "match": "cleveland hot waffle",
+    "match": "cl[eéèêë3]v[eéèêë3]l[aáàâãä4][nñ]d h[oóòôõö0]t w[aáàâãä4]ffl[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -863,7 +863,7 @@
   },
   {
     "id": "cleveland-steamer",
-    "match": "cleveland steamer",
+    "match": "cl[eéèêë3]v[eéèêë3]l[aáàâãä4][nñ]d st[eéèêë3][aáàâãä4]m[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -871,7 +871,7 @@
   },
   {
     "id": "clit",
-    "match": "clit",
+    "match": "\\b(cl[iíìîï1]t)\\b",
     "tags": [
       "sexual"
     ],
@@ -900,7 +900,7 @@
   },
   {
     "id": "clitoris",
-    "match": "cli*tori*s",
+    "match": "\\b(cl)([iíìîï1]+)(t[oóòôõö0]r)([iíìîï1]+)(s)",
     "tags": [
       "sexual"
     ],
@@ -908,7 +908,7 @@
   },
   {
     "id": "clover-clamps",
-    "match": "clover clamps|clover clamp",
+    "match": "cl[oóòôõö0]v[eéèêë3]r cl[aáàâãä4]mps|cl[oóòôõö0]v[eéèêë3]r cl[aáàâãä4]mp",
     "tags": [
       "sexual"
     ],
@@ -916,7 +916,7 @@
   },
   {
     "id": "clunge",
-    "match": "clu*nge",
+    "match": "\\b(cl)([uúùûü]+)([nñ]g[eéèêë3])",
     "tags": [
       "sexual"
     ],
@@ -924,7 +924,7 @@
   },
   {
     "id": "clusterfuck",
-    "match": "clusterfuck|cluster-fuck|cluster fuck",
+    "match": "cl[uúùûü]st[eéèêë3]rf[uúùûü]ck|cl[uúùûü]st[eéèêë3]r-f[uúùûü]ck|cl[uúùûü]st[eéèêë3]r f[uúùûü]ck",
     "tags": [
       "general"
     ],
@@ -932,7 +932,7 @@
   },
   {
     "id": "cock",
-    "match": "cock",
+    "match": "c[oóòôõö0]ck",
     "tags": [
       "sexual"
     ],
@@ -1098,7 +1098,7 @@
   },
   {
     "id": "cockpipe-cosmonaut",
-    "match": "cockpipe cosmonaut",
+    "match": "c[oóòôõö0]ckp[iíìîï1]p[eéèêë3] c[oóòôõö0]sm[oóòôõö0][nñ][aáàâãä4][uúùûü]t",
     "tags": [
       "lgbtq"
     ],
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "cockstruction-worker",
-    "match": "cockstruction worker",
+    "match": "c[oóòôõö0]ckstr[uúùûü]ct[iíìîï1][oóòôõö0][nñ] w[oóòôõö0]rk[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -1114,7 +1114,7 @@
   },
   {
     "id": "coimetrophilia",
-    "match": "coimetrophilia|coimetrophile",
+    "match": "c[oóòôõö0][iíìîï1]m[eéèêë3]tr[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|c[oóòôõö0][iíìîï1]m[eéèêë3]tr[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1122,7 +1122,7 @@
   },
   {
     "id": "collaring",
-    "match": "collaring|collared",
+    "match": "c[oóòôõö0]ll[aáàâãä4]r[iíìîï1][nñ]g|c[oóòôõö0]ll[aáàâãä4]r[eéèêë3]d",
     "tags": [
       "sexual"
     ],
@@ -1130,7 +1130,7 @@
   },
   {
     "id": "coon",
-    "match": "coon|coons",
+    "match": "c[oóòôõö0][oóòôõö0][nñ]|c[oóòôõö0][oóòôõö0][nñ]s",
     "tags": [
       "racial"
     ],
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "coprophilia",
-    "match": "coprophilia|coprophile|coprolagnia",
+    "match": "c[oóòôõö0]pr[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|c[oóòôõö0]pr[oóòôõö0]ph[iíìîï1]l[eéèêë3]|c[oóòôõö0]pr[oóòôõö0]l[aáàâãä4]g[nñ][iíìîï1][aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "cornhole",
-    "match": "cornhole",
+    "match": "c[oóòôõö0]r[nñ]h[oóòôõö0]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1169,7 +1169,7 @@
   },
   {
     "id": "crafty-butcher",
-    "match": "crafty butcher",
+    "match": "cr[aáàâãä4]fty b[uúùûü]tch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "crap",
-    "match": "cra*p",
+    "match": "\\b(c+)(r+)([aáàâãä4]+)(p+)",
     "tags": [
       "general"
     ],
@@ -1193,7 +1193,7 @@
   },
   {
     "id": "creampie",
-    "match": "creampie|cream-pie",
+    "match": "cr[eéèêë3][aáàâãä4]mp[iíìîï1][eéèêë3]|cr[eéèêë3][aáàâãä4]m-p[iíìîï1][eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "cum",
-    "match": "cum",
+    "match": "\\b(c+[uúùûü]+m+)\\b",
     "tags": [
       "sexual"
     ],
@@ -1209,7 +1209,7 @@
   },
   {
     "id": "cumming",
-    "match": "cumming",
+    "match": "c[uúùûü]mm[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1217,7 +1217,7 @@
   },
   {
     "id": "cumshot",
-    "match": "cumshot|cumshots|cum shot|cum shots",
+    "match": "c[uúùûü]msh[oóòôõö0]t|c[uúùûü]msh[oóòôõö0]ts|c[uúùûü]m sh[oóòôõö0]t|c[uúùûü]m sh[oóòôõö0]ts",
     "tags": [
       "sexual"
     ],
@@ -1225,7 +1225,7 @@
   },
   {
     "id": "cunnilingus",
-    "match": "cunnilingus",
+    "match": "c[uúùûü][nñ][nñ][iíìîï1]l[iíìîï1][nñ]g[uúùûü]s",
     "tags": [
       "sexual"
     ],
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "cunt",
-    "match": "cu*n*t|ku*nt|cunts|kunts",
+    "match": "\\b((c|k)+)([uúùûü]+)([nñ]+)(t+)\\b",
     "tags": [
       "general"
     ],
@@ -1244,7 +1244,7 @@
   },
   {
     "id": "cuntboy",
-    "match": "cuntboy|cunt-boy|cunt boy",
+    "match": "c[uúùûü][nñ]tb[oóòôõö0]y|c[uúùûü][nñ]t-b[oóòôõö0]y|c[uúùûü][nñ]t b[oóòôõö0]y",
     "tags": [
       "lgbtq"
     ],
@@ -1252,7 +1252,7 @@
   },
   {
     "id": "curry-muncher",
-    "match": "curry muncher|curry-muncher|currymuncher",
+    "match": "c[uúùûü]rry m[uúùûü][nñ]ch[eéèêë3]r|c[uúùûü]rry-m[uúùûü][nñ]ch[eéèêë3]r|c[uúùûü]rrym[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -1260,7 +1260,7 @@
   },
   {
     "id": "damn",
-    "match": "da*mn",
+    "match": "\\b(d+)([aáàâãä4]+)(m+)([nñ]+)\\b",
     "tags": [
       "religious"
     ],
@@ -1268,7 +1268,7 @@
   },
   {
     "id": "darkie",
-    "match": "darkie|darkies|darky|darkey",
+    "match": "d[aáàâãä4]rk[iíìîï1][eéèêë3]|d[aáàâãä4]rk[iíìîï1][eéèêë3]s|d[aáàâãä4]rky|d[aáàâãä4]rk[eéèêë3]y",
     "tags": [
       "racial"
     ],
@@ -1276,7 +1276,7 @@
   },
   {
     "id": "date-rape",
-    "match": "date rape|daterape",
+    "match": "d[aáàâãä4]t[eéèêë3] r[aáàâãä4]p[eéèêë3]|d[aáàâãä4]t[eéèêë3]r[aáàâãä4]p[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1292,7 +1292,7 @@
   },
   {
     "id": "deep-throat",
-    "match": "deep throat|deep-throat|deepthroat",
+    "match": "d[eéèêë3][eéèêë3]p thr[oóòôõö0][aáàâãä4]t|d[eéèêë3][eéèêë3]p-thr[oóòôõö0][aáàâãä4]t|d[eéèêë3][eéèêë3]pthr[oóòôõö0][aáàâãä4]t",
     "tags": [
       "sexual"
     ],
@@ -1300,7 +1300,7 @@
   },
   {
     "id": "dendrophilia",
-    "match": "dendrophilia|dendrophile",
+    "match": "d[eéèêë3][nñ]dr[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|d[eéèêë3][nñ]dr[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1308,7 +1308,7 @@
   },
   {
     "id": "dick",
-    "match": "di*ck",
+    "match": "\\b(d)([iíìîï1])(ck)",
     "tags": [
       "sexual"
     ],
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "dickgirl",
-    "match": "dickgirl|dick-girl|dick girl",
+    "match": "d[iíìîï1]ckg[iíìîï1]rl|d[iíìîï1]ck-g[iíìîï1]rl|d[iíìîï1]ck g[iíìîï1]rl",
     "tags": [
       "lgbtq"
     ],
@@ -1332,7 +1332,7 @@
   },
   {
     "id": "dildo",
-    "match": "dildo|dildos",
+    "match": "d[iíìîï1]ld[oóòôõö0]|d[iíìîï1]ld[oóòôõö0]s",
     "tags": [
       "sexual"
     ],
@@ -1340,7 +1340,7 @@
   },
   {
     "id": "dingleberry",
-    "match": "dingleberry|dingleberries",
+    "match": "d[iíìîï1][nñ]gl[eéèêë3]b[eéèêë3]rry|d[iíìîï1][nñ]gl[eéèêë3]b[eéèêë3]rr[iíìîï1][eéèêë3]s",
     "tags": [
       "general"
     ],
@@ -1348,7 +1348,7 @@
   },
   {
     "id": "dipsea",
-    "match": "dipsea",
+    "match": "d[iíìîï1]ps[eéèêë3][aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -1356,7 +1356,7 @@
   },
   {
     "id": "dirty-pillows",
-    "match": "dirty pillows",
+    "match": "d[iíìîï1]rty p[iíìîï1]ll[oóòôõö0]ws",
     "tags": [
       "sexual"
     ],
@@ -1364,7 +1364,7 @@
   },
   {
     "id": "dirty-sanchez",
-    "match": "dirty sanchez",
+    "match": "d[iíìîï1]rty s[aáàâãä4][nñ]ch[eéèêë3]z",
     "tags": [
       "sexual"
     ],
@@ -1372,7 +1372,7 @@
   },
   {
     "id": "dishabiliophilia",
-    "match": "dishabiliophilia|dishabiliophile",
+    "match": "d[iíìîï1]sh[aáàâãä4]b[iíìîï1]l[iíìîï1][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|d[iíìîï1]sh[aáàâãä4]b[iíìîï1]l[iíìîï1][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1380,7 +1380,7 @@
   },
   {
     "id": "doggie-style",
-    "match": "doggie style|doggie-style|doggiestyle|doggy style|doggy-style|doggystyle|dog style",
+    "match": "d[oóòôõö0]gg[iíìîï1][eéèêë3] styl[eéèêë3]|d[oóòôõö0]gg[iíìîï1][eéèêë3]-styl[eéèêë3]|d[oóòôõö0]gg[iíìîï1][eéèêë3]styl[eéèêë3]|d[oóòôõö0]ggy styl[eéèêë3]|d[oóòôõö0]ggy-styl[eéèêë3]|d[oóòôõö0]ggystyl[eéèêë3]|d[oóòôõö0]g styl[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1388,7 +1388,7 @@
   },
   {
     "id": "dogshit",
-    "match": "dogshit|dog-shit|dog shit",
+    "match": "d[oóòôõö0]gsh[iíìîï1]t|d[oóòôõö0]g-sh[iíìîï1]t|d[oóòôõö0]g sh[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -1396,7 +1396,7 @@
   },
   {
     "id": "dolcett",
-    "match": "dolcett",
+    "match": "d[oóòôõö0]lc[eéèêë3]tt",
     "tags": [
       "sexual"
     ],
@@ -1404,7 +1404,7 @@
   },
   {
     "id": "domination",
-    "match": "domination",
+    "match": "d[oóòôõö0]m[iíìîï1][nñ][aáàâãä4]t[iíìîï1][oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -1412,7 +1412,7 @@
   },
   {
     "id": "dominatrix",
-    "match": "dominatrix|domme|dommes",
+    "match": "d[oóòôõö0]m[iíìîï1][nñ][aáàâãä4]tr[iíìîï1]x|d[oóòôõö0]mm[eéèêë3]|d[oóòôõö0]mm[eéèêë3]s",
     "tags": [
       "sexual"
     ],
@@ -1420,7 +1420,7 @@
   },
   {
     "id": "donkey-punch",
-    "match": "donkey punch",
+    "match": "d[oóòôõö0][nñ]k[eéèêë3]y p[uúùûü][nñ]ch",
     "tags": [
       "sexual"
     ],
@@ -1428,7 +1428,7 @@
   },
   {
     "id": "donut-muncher",
-    "match": "donut muncher",
+    "match": "d[oóòôõö0][nñ][uúùûü]t m[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "donut-puncher",
-    "match": "donut puncher",
+    "match": "d[oóòôõö0][nñ][uúùûü]t p[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -1444,7 +1444,7 @@
   },
   {
     "id": "double-penetration",
-    "match": "double penetration|dp action",
+    "match": "d[oóòôõö0][uúùûü]bl[eéèêë3] p[eéèêë3][nñ][eéèêë3]tr[aáàâãä4]t[iíìîï1][oóòôõö0][nñ]|dp [aáàâãä4]ct[iíìîï1][oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -1452,7 +1452,7 @@
   },
   {
     "id": "dry-hump",
-    "match": "dry hump",
+    "match": "dry h[uúùûü]mp",
     "tags": [
       "sexual"
     ],
@@ -1460,7 +1460,7 @@
   },
   {
     "id": "dune-coon",
-    "match": "dune coon|dune-coon|doon coon|dooncoon",
+    "match": "d[uúùûü][nñ][eéèêë3] c[oóòôõö0][oóòôõö0][nñ]|d[uúùûü][nñ][eéèêë3]-c[oóòôõö0][oóòôõö0][nñ]|d[oóòôõö0][oóòôõö0][nñ] c[oóòôõö0][oóòôõö0][nñ]|d[oóòôõö0][oóòôõö0][nñ]c[oóòôõö0][oóòôõö0][nñ]",
     "tags": [
       "racial"
     ],
@@ -1468,7 +1468,7 @@
   },
   {
     "id": "dutch-rudder",
-    "match": "dutch rudder",
+    "match": "d[uúùûü]tch r[uúùûü]dd[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -1476,7 +1476,7 @@
   },
   {
     "id": "dyke",
-    "match": "dyke",
+    "match": "dyk[eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "dystychiphilia",
-    "match": "dystychiphilia|dystychiphile",
+    "match": "dystych[iíìîï1]ph[iíìîï1]l[iíìîï1][aáàâãä4]|dystych[iíìîï1]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1497,7 +1497,7 @@
   },
   {
     "id": "edgeplay",
-    "match": "edgeplay|edge play",
+    "match": "[eéèêë3]dg[eéèêë3]pl[aáàâãä4]y|[eéèêë3]dg[eéèêë3] pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -1505,7 +1505,7 @@
   },
   {
     "id": "ejaculate",
-    "match": "ejaculate|ejaculation|ejaculating|ejaculated",
+    "match": "[eéèêë3]j[aáàâãä4]c[uúùûü]l[aáàâãä4]t[eéèêë3]|[eéèêë3]j[aáàâãä4]c[uúùûü]l[aáàâãä4]t[iíìîï1][oóòôõö0][nñ]|[eéèêë3]j[aáàâãä4]c[uúùûü]l[aáàâãä4]t[iíìîï1][nñ]g|[eéèêë3]j[aáàâãä4]c[uúùûü]l[aáàâãä4]t[eéèêë3]d",
     "tags": [
       "sexual"
     ],
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "electro-play",
-    "match": "electro-play|electroplay",
+    "match": "[eéèêë3]l[eéèêë3]ctr[oóòôõö0]-pl[aáàâãä4]y|[eéèêë3]l[eéèêë3]ctr[oóòôõö0]pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "emetophilia",
-    "match": "emetophilia|emetophile",
+    "match": "[eéèêë3]m[eéèêë3]t[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[eéèêë3]m[eéèêë3]t[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1529,7 +1529,7 @@
   },
   {
     "id": "enby",
-    "match": "enby",
+    "match": "[eéèêë3][nñ]by",
     "tags": [
       "lgbtq"
     ],
@@ -1555,7 +1555,7 @@
   },
   {
     "id": "eskimo-trebuchet",
-    "match": "eskimo trebuchet",
+    "match": "[eéèêë3]sk[iíìîï1]m[oóòôõö0] tr[eéèêë3]b[uúùûü]ch[eéèêë3]t",
     "tags": [
       "sexual"
     ],
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "eyetie",
-    "match": "eyetie|eye-tie",
+    "match": "[eéèêë3]y[eéèêë3]t[iíìîï1][eéèêë3]|[eéèêë3]y[eéèêë3]-t[iíìîï1][eéèêë3]",
     "tags": [
       "racial"
     ],
@@ -1571,7 +1571,7 @@
   },
   {
     "id": "fag",
-    "match": "fa*g",
+    "match": "\\b(f+)([aáàâãä4]+)(g+)",
     "tags": [
       "lgbtq"
     ],
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "fag-bomb",
-    "match": "fag bomb|fag-bomb|fagbomb",
+    "match": "f[aáàâãä4]g b[oóòôõö0]mb|f[aáàâãä4]g-b[oóòôõö0]mb|f[aáàâãä4]gb[oóòôõö0]mb",
     "tags": [
       "lgbtq"
     ],
@@ -1595,7 +1595,7 @@
   },
   {
     "id": "faggot",
-    "match": "fa*gg*o*t|fagot",
+    "match": "(f+)([aáàâãä4]+)(g+)([oóòôõö0]+)(t+)",
     "tags": [
       "lgbtq"
     ],
@@ -1603,7 +1603,7 @@
   },
   {
     "id": "felch",
-    "match": "felch|felching",
+    "match": "f[eéèêë3]lch|f[eéèêë3]lch[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1611,7 +1611,7 @@
   },
   {
     "id": "fellatio",
-    "match": "fellatio|fellating",
+    "match": "f[eéèêë3]ll[aáàâãä4]t[iíìîï1][oóòôõö0]|f[eéèêë3]ll[aáàâãä4]t[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1619,7 +1619,7 @@
   },
   {
     "id": "female-squirting",
-    "match": "female squirting",
+    "match": "f[eéèêë3]m[aáàâãä4]l[eéèêë3] sq[uúùûü][iíìîï1]rt[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1627,7 +1627,7 @@
   },
   {
     "id": "figging",
-    "match": "figging",
+    "match": "f[iíìîï1]gg[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1635,7 +1635,7 @@
   },
   {
     "id": "fingerbang",
-    "match": "fingerbang|finger bang|fingerbanging",
+    "match": "f[iíìîï1][nñ]g[eéèêë3]rb[aáàâãä4][nñ]g|f[iíìîï1][nñ]g[eéèêë3]r b[aáàâãä4][nñ]g|f[iíìîï1][nñ]g[eéèêë3]rb[aáàâãä4][nñ]g[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1643,7 +1643,7 @@
   },
   {
     "id": "fingering",
-    "match": "fingering|fingered",
+    "match": "f[iíìîï1][nñ]g[eéèêë3]r[iíìîï1][nñ]g|f[iíìîï1][nñ]g[eéèêë3]r[eéèêë3]d",
     "tags": [
       "sexual"
     ],
@@ -1651,7 +1651,7 @@
   },
   {
     "id": "finocchio",
-    "match": "finocchio|finochio|finoccio",
+    "match": "f[iíìîï1][nñ][oóòôõö0]cch[iíìîï1][oóòôõö0]|f[iíìîï1][nñ][oóòôõö0]ch[iíìîï1][oóòôõö0]|f[iíìîï1][nñ][oóòôõö0]cc[iíìîï1][oóòôõö0]",
     "tags": [
       "lgbtq"
     ],
@@ -1659,7 +1659,7 @@
   },
   {
     "id": "fisting",
-    "match": "fisting|fisted",
+    "match": "f[iíìîï1]st[iíìîï1][nñ]g|f[iíìîï1]st[eéèêë3]d",
     "tags": [
       "sexual"
     ],
@@ -1667,7 +1667,7 @@
   },
   {
     "id": "footjob",
-    "match": "footjob|foot-job|foot job",
+    "match": "f[oóòôõö0][oóòôõö0]tj[oóòôõö0]b|f[oóòôõö0][oóòôõö0]t-j[oóòôõö0]b|f[oóòôõö0][oóòôõö0]t j[oóòôõö0]b",
     "tags": [
       "sexual"
     ],
@@ -1675,7 +1675,7 @@
   },
   {
     "id": "french-rudder",
-    "match": "french rudder",
+    "match": "fr[eéèêë3][nñ]ch r[uúùûü]dd[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -1683,7 +1683,7 @@
   },
   {
     "id": "frogeater",
-    "match": "frogeater|frog-eater|frog eater",
+    "match": "fr[oóòôõö0]g[eéèêë3][aáàâãä4]t[eéèêë3]r|fr[oóòôõö0]g-[eéèêë3][aáàâãä4]t[eéèêë3]r|fr[oóòôõö0]g [eéèêë3][aáàâãä4]t[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "frolicme",
-    "match": "frolicme|frolic me",
+    "match": "fr[oóòôõö0]l[iíìîï1]cm[eéèêë3]|fr[oóòôõö0]l[iíìîï1]c m[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1699,7 +1699,7 @@
   },
   {
     "id": "frotting",
-    "match": "frotting|frottage",
+    "match": "fr[oóòôõö0]tt[iíìîï1][nñ]g|fr[oóòôõö0]tt[aáàâãä4]g[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1707,7 +1707,7 @@
   },
   {
     "id": "fuck",
-    "match": "fu*c*k|fucks|fu*c*ken|fu*c*ker|fu*ckers|fu*c*kin|fu*c*king",
+    "match": "(f+)([uúùûü]+)(c+)(k+)",
     "tags": [
       "general"
     ],
@@ -1715,7 +1715,7 @@
   },
   {
     "id": "fuckhead",
-    "match": "fuckhead|fuckheads",
+    "match": "f[uúùûü]ckh[eéèêë3][aáàâãä4]d|f[uúùûü]ckh[eéèêë3][aáàâãä4]ds",
     "tags": [
       "general"
     ],
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "fucktard",
-    "match": "fucktard|fucktards",
+    "match": "f[uúùûü]ckt[aáàâãä4]rd|f[uúùûü]ckt[aáàâãä4]rds",
     "tags": [
       "general"
     ],
@@ -1731,7 +1731,7 @@
   },
   {
     "id": "fuckwad",
-    "match": "fuckwad|fuckwads",
+    "match": "f[uúùûü]ckw[aáàâãä4]d|f[uúùûü]ckw[aáàâãä4]ds",
     "tags": [
       "general"
     ],
@@ -1739,7 +1739,7 @@
   },
   {
     "id": "fuckwit",
-    "match": "fuckwit|fuckwits|fuckwhit|fuck-wit",
+    "match": "f[uúùûü]ckw[iíìîï1]t|f[uúùûü]ckw[iíìîï1]ts|f[uúùûü]ckwh[iíìîï1]t|f[uúùûü]ck-w[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -1747,7 +1747,7 @@
   },
   {
     "id": "fudge-packer",
-    "match": "fudge packer|fudge-packer|fudgepacker",
+    "match": "f[uúùûü]dg[eéèêë3] p[aáàâãä4]ck[eéèêë3]r|f[uúùûü]dg[eéèêë3]-p[aáàâãä4]ck[eéèêë3]r|f[uúùûü]dg[eéèêë3]p[aáàâãä4]ck[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -1755,7 +1755,7 @@
   },
   {
     "id": "futanari",
-    "match": "futanari",
+    "match": "f[uúùûü]t[aáàâãä4][nñ][aáàâãä4]r[iíìîï1]",
     "tags": [
       "lgbtq"
     ],
@@ -1763,7 +1763,7 @@
   },
   {
     "id": "g-spot",
-    "match": "g-spot",
+    "match": "g-sp[oóòôõö0]t",
     "tags": [
       "sexual"
     ],
@@ -1771,7 +1771,7 @@
   },
   {
     "id": "gangbang",
-    "match": "gangbang|gang bang",
+    "match": "g[aáàâãä4][nñ]gb[aáàâãä4][nñ]g|g[aáàâãä4][nñ]g b[aáàâãä4][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -1779,7 +1779,7 @@
   },
   {
     "id": "gay-sex",
-    "match": "gay sex",
+    "match": "g[aáàâãä4]y s[eéèêë3]x",
     "tags": [
       "sexual"
     ],
@@ -1787,7 +1787,7 @@
   },
   {
     "id": "gaysian",
-    "match": "gaysian",
+    "match": "g[aáàâãä4]ys[iíìîï1][aáàâãä4][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -1795,7 +1795,7 @@
   },
   {
     "id": "genitals",
-    "match": "genitals",
+    "match": "g[eéèêë3][nñ][iíìîï1]t[aáàâãä4]ls",
     "tags": [
       "sexual"
     ],
@@ -1803,7 +1803,7 @@
   },
   {
     "id": "genitorture",
-    "match": "genitorture",
+    "match": "g[eéèêë3][nñ][iíìîï1]t[oóòôõö0]rt[uúùûü]r[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1811,7 +1811,7 @@
   },
   {
     "id": "gerontophilia",
-    "match": "gerontophilia|gerontophile",
+    "match": "g[eéèêë3]r[oóòôõö0][nñ]t[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|g[eéèêë3]r[oóòôõö0][nñ]t[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1819,7 +1819,7 @@
   },
   {
     "id": "gin-jockey",
-    "match": "gin jockey|gin jocky",
+    "match": "g[iíìîï1][nñ] j[oóòôõö0]ck[eéèêë3]y|g[iíìîï1][nñ] j[oóòôõö0]cky",
     "tags": [
       "racial"
     ],
@@ -1827,7 +1827,7 @@
   },
   {
     "id": "girl-on-top",
-    "match": "girl on top",
+    "match": "g[iíìîï1]rl [oóòôõö0][nñ] t[oóòôõö0]p",
     "tags": [
       "sexual"
     ],
@@ -1835,23 +1835,31 @@
   },
   {
     "id": "goatse",
-    "match": "goatse|goatcx",
+    "match": "g[oóòôõö0][aáàâãä4]ts[eéèêë3]|g[oóòôõö0][aáàâãä4]tcx",
     "tags": [
       "shock"
     ],
     "severity": 4
   },
   {
-    "id": "god-damn",
-    "match": "god damn|god-damn|goddamn|god damned|god-damned|goddamned",
+    "id": "gobshite",
+    "match": "g[oóòôõö0]bsh[iíìîï1]t[eéèêë3]",
     "tags": [
-      "religious"
+      "general"
     ],
     "severity": 2
   },
   {
+    "id": "god-damn",
+    "match": "g[oóòôõö0]d d[aáàâãä4]m[nñ]|g[oóòôõö0]d-d[aáàâãä4]m[nñ]|g[oóòôõö0]dd[aáàâãä4]m[nñ]|g[oóòôõö0]d d[aáàâãä4]m[nñ][eéèêë3]d|g[oóòôõö0]d-d[aáàâãä4]m[nñ][eéèêë3]d|g[oóòôõö0]dd[aáàâãä4]m[nñ][eéèêë3]d",
+    "tags": [
+      "religious"
+    ],
+    "severity": 1
+  },
+  {
     "id": "gokkun",
-    "match": "gokkun|go-kun",
+    "match": "g[oóòôõö0]kk[uúùûü][nñ]|g[oóòôõö0]-k[uúùûü][nñ]",
     "tags": [
       "sexual"
     ],
@@ -1859,7 +1867,7 @@
   },
   {
     "id": "golden-shower",
-    "match": "golden shower|golden showers|yellow shower|yellow showers",
+    "match": "g[oóòôõö0]ld[eéèêë3][nñ] sh[oóòôõö0]w[eéèêë3]r|g[oóòôõö0]ld[eéèêë3][nñ] sh[oóòôõö0]w[eéèêë3]rs|y[eéèêë3]ll[oóòôõö0]w sh[oóòôõö0]w[eéèêë3]r|y[eéèêë3]ll[oóòôõö0]w sh[oóòôõö0]w[eéèêë3]rs",
     "tags": [
       "sexual"
     ],
@@ -1867,7 +1875,7 @@
   },
   {
     "id": "golliwog",
-    "match": "golliwog|gollywog",
+    "match": "g[oóòôõö0]ll[iíìîï1]w[oóòôõö0]g|g[oóòôõö0]llyw[oóòôõö0]g",
     "tags": [
       "racial"
     ],
@@ -1875,7 +1883,7 @@
   },
   {
     "id": "gook",
-    "match": "gook|gooks|gook-eye|gooky|gookie",
+    "match": "g[oóòôõö0][oóòôõö0]k|g[oóòôõö0][oóòôõö0]ks|g[oóòôõö0][oóòôõö0]k-[eéèêë3]y[eéèêë3]|g[oóòôõö0][oóòôõö0]ky|g[oóòôõö0][oóòôõö0]k[iíìîï1][eéèêë3]",
     "tags": [
       "racial"
     ],
@@ -1889,7 +1897,7 @@
   },
   {
     "id": "goregasm",
-    "match": "goregasm",
+    "match": "g[oóòôõö0]r[eéèêë3]g[aáàâãä4]sm",
     "tags": [
       "sexual"
     ],
@@ -1897,7 +1905,7 @@
   },
   {
     "id": "greaseball",
-    "match": "greaseball",
+    "match": "gr[eéèêë3][aáàâãä4]s[eéèêë3]b[aáàâãä4]ll",
     "tags": [
       "racial"
     ],
@@ -1905,7 +1913,7 @@
   },
   {
     "id": "grey-queen",
-    "match": "grey queen|gray queen",
+    "match": "gr[eéèêë3]y q[uúùûü][eéèêë3][eéèêë3][nñ]|gr[aáàâãä4]y q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -1913,7 +1921,7 @@
   },
   {
     "id": "grope",
-    "match": "grope",
+    "match": "gr[oóòôõö0]p[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -1921,7 +1929,7 @@
   },
   {
     "id": "group-sex",
-    "match": "group sex",
+    "match": "gr[oóòôõö0][uúùûü]p s[eéèêë3]x",
     "tags": [
       "sexual"
     ],
@@ -1929,7 +1937,7 @@
   },
   {
     "id": "gym-bunny",
-    "match": "gym bunny|gymbunny",
+    "match": "gym b[uúùûü][nñ][nñ]y|gymb[uúùûü][nñ][nñ]y",
     "tags": [
       "lgbtq"
     ],
@@ -1937,7 +1945,7 @@
   },
   {
     "id": "hajji",
-    "match": "haji|hajj*i|hadji",
+    "match": "h[aáàâãä4]j[iíìîï1]|h[aáàâãä4]jj*[iíìîï1]|h[aáàâãä4]dj[iíìîï1]",
     "tags": [
       "racial"
     ],
@@ -1945,7 +1953,7 @@
   },
   {
     "id": "hand-job",
-    "match": "hand job|hand-job|handjob",
+    "match": "h[aáàâãä4][nñ]d j[oóòôõö0]b|h[aáàâãä4][nñ]d-j[oóòôõö0]b|h[aáàâãä4][nñ]dj[oóòôõö0]b",
     "tags": [
       "sexual"
     ],
@@ -1953,7 +1961,7 @@
   },
   {
     "id": "hell",
-    "match": "hell",
+    "match": "\\bh[eéèêë3]ll\\b",
     "tags": [
       "religious"
     ],
@@ -1975,7 +1983,7 @@
   },
   {
     "id": "hermie",
-    "match": "hermie",
+    "match": "h[eéèêë3]rm[iíìîï1][eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -1988,7 +1996,7 @@
   },
   {
     "id": "hickory-switch",
-    "match": "hickory switch",
+    "match": "h[iíìîï1]ck[oóòôõö0]ry sw[iíìîï1]tch",
     "tags": [
       "sexual"
     ],
@@ -1996,7 +2004,7 @@
   },
   {
     "id": "hippophilia",
-    "match": "hippophilia|hippophile",
+    "match": "h[iíìîï1]pp[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|h[iíìîï1]pp[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2004,7 +2012,7 @@
   },
   {
     "id": "homoerotic",
-    "match": "homoerotic",
+    "match": "h[oóòôõö0]m[oóòôõö0][eéèêë3]r[oóòôõö0]t[iíìîï1]c",
     "tags": [
       "sexual"
     ],
@@ -2012,7 +2020,7 @@
   },
   {
     "id": "honkey",
-    "match": "honkey|honky|honkeys|honkies",
+    "match": "h[oóòôõö0][nñ]k[eéèêë3]y|h[oóòôõö0][nñ]ky|h[oóòôõö0][nñ]k[eéèêë3]ys|h[oóòôõö0][nñ]k[iíìîï1][eéèêë3]s",
     "tags": [
       "racial"
     ],
@@ -2020,7 +2028,7 @@
   },
   {
     "id": "horny",
-    "match": "horny",
+    "match": "h[oóòôõö0]r[nñ]y",
     "tags": [
       "sexual"
     ],
@@ -2028,7 +2036,7 @@
   },
   {
     "id": "horseshit",
-    "match": "horseshit|horse-shit|horse shit",
+    "match": "h[oóòôõö0]rs[eéèêë3]sh[iíìîï1]t|h[oóòôõö0]rs[eéèêë3]-sh[iíìîï1]t|h[oóòôõö0]rs[eéèêë3] sh[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -2036,7 +2044,7 @@
   },
   {
     "id": "hot-carl",
-    "match": "hot carl",
+    "match": "h[oóòôõö0]t c[aáàâãä4]rl",
     "tags": [
       "sexual"
     ],
@@ -2044,7 +2052,7 @@
   },
   {
     "id": "hot-richard",
-    "match": "hot richard",
+    "match": "h[oóòôõö0]t r[iíìîï1]ch[aáàâãä4]rd",
     "tags": [
       "sexual"
     ],
@@ -2052,7 +2060,7 @@
   },
   {
     "id": "humping",
-    "match": "humping",
+    "match": "h[uúùûü]mp[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2060,7 +2068,7 @@
   },
   {
     "id": "hymie",
-    "match": "hymie|heimie",
+    "match": "hym[iíìîï1][eéèêë3]|h[eéèêë3][iíìîï1]m[iíìîï1][eéèêë3]",
     "tags": [
       "racial"
     ],
@@ -2074,7 +2082,7 @@
   },
   {
     "id": "impact-play",
-    "match": "impact play|impact-play",
+    "match": "[iíìîï1]mp[aáàâãä4]ct pl[aáàâãä4]y|[iíìîï1]mp[aáàâãä4]ct-pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -2082,7 +2090,7 @@
   },
   {
     "id": "incest",
-    "match": "incest",
+    "match": "[iíìîï1][nñ]c[eéèêë3]st",
     "tags": [
       "sexual"
     ],
@@ -2090,7 +2098,7 @@
   },
   {
     "id": "intercourse",
-    "match": "intercourse",
+    "match": "[iíìîï1][nñ]t[eéèêë3]rc[oóòôõö0][uúùûü]rs[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2098,7 +2106,7 @@
   },
   {
     "id": "jack-off",
-    "match": "jack off|jack-off",
+    "match": "j[aáàâãä4]ck [oóòôõö0]ff|j[aáàâãä4]ck-[oóòôõö0]ff",
     "tags": [
       "sexual"
     ],
@@ -2106,7 +2114,7 @@
   },
   {
     "id": "jail-bait",
-    "match": "jail bait|jailbait",
+    "match": "j[aáàâãä4][iíìîï1]l b[aáàâãä4][iíìîï1]t|j[aáàâãä4][iíìîï1]lb[aáàâãä4][iíìîï1]t",
     "tags": [
       "sexual"
     ],
@@ -2114,7 +2122,7 @@
   },
   {
     "id": "jap",
-    "match": "jap",
+    "match": "\\bj[aáàâãä4]p\\b",
     "tags": [
       "racial"
     ],
@@ -2151,7 +2159,7 @@
   },
   {
     "id": "jelly-donut",
-    "match": "jelly donut",
+    "match": "j[eéèêë3]lly d[oóòôõö0][nñ][uúùûü]t",
     "tags": [
       "sexual"
     ],
@@ -2159,7 +2167,7 @@
   },
   {
     "id": "jerk-off",
-    "match": "jerk off|jerk-off",
+    "match": "j[eéèêë3]rk [oóòôõö0]ff|j[eéèêë3]rk-[oóòôõö0]ff",
     "tags": [
       "sexual"
     ],
@@ -2167,7 +2175,7 @@
   },
   {
     "id": "jerkmate",
-    "match": "jerkmate|jerk mate",
+    "match": "j[eéèêë3]rkm[aáàâãä4]t[eéèêë3]|j[eéèêë3]rk m[aáàâãä4]t[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2175,7 +2183,7 @@
   },
   {
     "id": "jesus",
-    "match": "je*su*s",
+    "match": "\\b(j+)([eéèêë3]+)(s+)([uúùûü]+)(s+)\\b",
     "tags": [
       "religious"
     ],
@@ -2186,15 +2194,15 @@
   },
   {
     "id": "jesus-christ",
-    "match": "je*su*s chri*st",
+    "match": "\\b(j+)([eéèêë3]+)(s+)([uúùûü]+)(s+)(.*)(c+)(h+)(r+)([iíìîï1]+)(s+)(t+)\\b",
     "tags": [
       "religious"
     ],
-    "severity": 2
+    "severity": 1
   },
   {
     "id": "jigaboo",
-    "match": "jig*aboo*|jig*gerboo*",
+    "match": "j[iíìîï1]g*[aáàâãä4]b[oóòôõö0][oóòôõö0]*|j[iíìîï1]g*g[eéèêë3]rb[oóòôõö0][oóòôõö0]*",
     "tags": [
       "racial"
     ],
@@ -2202,7 +2210,7 @@
   },
   {
     "id": "jizz",
-    "match": "jizz",
+    "match": "j[iíìîï1]zz",
     "tags": [
       "sexual"
     ],
@@ -2210,7 +2218,7 @@
   },
   {
     "id": "juggs",
-    "match": "juggs",
+    "match": "j[uúùûü]ggs",
     "tags": [
       "sexual"
     ],
@@ -2218,7 +2226,7 @@
   },
   {
     "id": "jungle-bunny",
-    "match": "jungle bunny|junglebunny",
+    "match": "j[uúùûü][nñ]gl[eéèêë3] b[uúùûü][nñ][nñ]y|j[uúùûü][nñ]gl[eéèêë3]b[uúùûü][nñ][nñ]y",
     "tags": [
       "racial"
     ],
@@ -2226,7 +2234,7 @@
   },
   {
     "id": "kennebunkport-surprise",
-    "match": "kennebunkport surprise",
+    "match": "k[eéèêë3][nñ][nñ][eéèêë3]b[uúùûü][nñ]kp[oóòôõö0]rt s[uúùûü]rpr[iíìîï1]s[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2234,7 +2242,7 @@
   },
   {
     "id": "kentucky-klondike",
-    "match": "kentucky klondike",
+    "match": "k[eéèêë3][nñ]t[uúùûü]cky kl[oóòôõö0][nñ]d[iíìîï1]k[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2242,7 +2250,7 @@
   },
   {
     "id": "kentucky-tractor-puller",
-    "match": "kentucky tractor puller",
+    "match": "k[eéèêë3][nñ]t[uúùûü]cky tr[aáàâãä4]ct[oóòôõö0]r p[uúùûü]ll[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -2250,7 +2258,7 @@
   },
   {
     "id": "kike",
-    "match": "ki*ke",
+    "match": "\\b(k+)([iíìîï1]+)(k+)([eéèêë3]+)\\b",
     "tags": [
       "racial"
     ],
@@ -2258,7 +2266,7 @@
   },
   {
     "id": "kinbaku",
-    "match": "kinbaku",
+    "match": "k[iíìîï1][nñ]b[aáàâãä4]k[uúùûü]",
     "tags": [
       "sexual"
     ],
@@ -2266,7 +2274,7 @@
   },
   {
     "id": "kitty-puncher",
-    "match": "kitty puncher|kitty-puncher|kittypuncher",
+    "match": "k[iíìîï1]tty p[uúùûü][nñ]ch[eéèêë3]r|k[iíìîï1]tty-p[uúùûü][nñ]ch[eéèêë3]r|k[iíìîï1]ttyp[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -2274,7 +2282,7 @@
   },
   {
     "id": "knobbing",
-    "match": "knobbing",
+    "match": "k[nñ][oóòôõö0]bb[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2282,7 +2290,7 @@
   },
   {
     "id": "kraut",
-    "match": "kraut|krauts",
+    "match": "kr[aáàâãä4][uúùûü]t|kr[aáàâãä4][uúùûü]ts",
     "tags": [
       "racial"
     ],
@@ -2294,7 +2302,7 @@
   },
   {
     "id": "kynophilia",
-    "match": "kynophilia|kynophile",
+    "match": "ky[nñ][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|ky[nñ][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2302,7 +2310,7 @@
   },
   {
     "id": "lady-boy",
-    "match": "lady boy|lady-boy|ladyboy",
+    "match": "l[aáàâãä4]dy b[oóòôõö0]y|l[aáàâãä4]dy-b[oóòôõö0]y|l[aáàâãä4]dyb[oóòôõö0]y",
     "tags": [
       "lgbtq"
     ],
@@ -2310,7 +2318,7 @@
   },
   {
     "id": "leather-restraint",
-    "match": "leather restraint",
+    "match": "l[eéèêë3][aáàâãä4]th[eéèêë3]r r[eéèêë3]str[aáàâãä4][iíìîï1][nñ]t",
     "tags": [
       "sexual"
     ],
@@ -2318,7 +2326,7 @@
   },
   {
     "id": "leather-straight-jacket",
-    "match": "leather straight jacket",
+    "match": "l[eéèêë3][aáàâãä4]th[eéèêë3]r str[aáàâãä4][iíìîï1]ght j[aáàâãä4]ck[eéèêë3]t",
     "tags": [
       "sexual"
     ],
@@ -2326,7 +2334,7 @@
   },
   {
     "id": "lemon-party",
-    "match": "lemon party|lemonparty",
+    "match": "l[eéèêë3]m[oóòôõö0][nñ] p[aáàâãä4]rty|l[eéèêë3]m[oóòôõö0][nñ]p[aáàâãä4]rty",
     "tags": [
       "shock"
     ],
@@ -2334,7 +2342,7 @@
   },
   {
     "id": "leningrad-steamer",
-    "match": "leningrad steamer",
+    "match": "l[eéèêë3][nñ][iíìîï1][nñ]gr[aáàâãä4]d st[eéèêë3][aáàâãä4]m[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -2342,7 +2350,7 @@
   },
   {
     "id": "lesbo",
-    "match": "lesbo",
+    "match": "l[eéèêë3]sb[oóòôõö0]",
     "tags": [
       "lgbtq"
     ],
@@ -2355,7 +2363,7 @@
   },
   {
     "id": "leso",
-    "match": "leso",
+    "match": "l[eéèêë3]s[oóòôõö0]",
     "tags": [
       "lgbtq"
     ],
@@ -2386,7 +2394,7 @@
   },
   {
     "id": "lezzie",
-    "match": "lezzie|lezzies",
+    "match": "l[eéèêë3]zz[iíìîï1][eéèêë3]|l[eéèêë3]zz[iíìîï1][eéèêë3]s",
     "tags": [
       "lgbtq"
     ],
@@ -2394,7 +2402,7 @@
   },
   {
     "id": "light-fedora",
-    "match": "light in the fedora",
+    "match": "l[iíìîï1]ght [iíìîï1][nñ] th[eéèêë3] f[eéèêë3]d[oóòôõö0]r[aáàâãä4]",
     "tags": [
       "lgbtq"
     ],
@@ -2402,7 +2410,7 @@
   },
   {
     "id": "light-loafers",
-    "match": "light in the loafers",
+    "match": "l[iíìîï1]ght [iíìîï1][nñ] th[eéèêë3] l[oóòôõö0][aáàâãä4]f[eéèêë3]rs",
     "tags": [
       "lgbtq"
     ],
@@ -2410,7 +2418,7 @@
   },
   {
     "id": "light-pants",
-    "match": "light in the pants",
+    "match": "l[iíìîï1]ght [iíìîï1][nñ] th[eéèêë3] p[aáàâãä4][nñ]ts",
     "tags": [
       "lgbtq"
     ],
@@ -2418,7 +2426,7 @@
   },
   {
     "id": "limp-wristed",
-    "match": "limp wristed|limp-wristed",
+    "match": "l[iíìîï1]mp wr[iíìîï1]st[eéèêë3]d|l[iíìîï1]mp-wr[iíìîï1]st[eéèêë3]d",
     "tags": [
       "lgbtq"
     ],
@@ -2426,7 +2434,7 @@
   },
   {
     "id": "literotica",
-    "match": "literotica",
+    "match": "l[iíìîï1]t[eéèêë3]r[oóòôõö0]t[iíìîï1]c[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -2434,7 +2442,7 @@
   },
   {
     "id": "lovemaking",
-    "match": "lovemaking",
+    "match": "l[oóòôõö0]v[eéèêë3]m[aáàâãä4]k[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2442,7 +2450,7 @@
   },
   {
     "id": "male-squirting",
-    "match": "male squirting|male-squirting",
+    "match": "m[aáàâãä4]l[eéèêë3] sq[uúùûü][iíìîï1]rt[iíìîï1][nñ]g|m[aáàâãä4]l[eéèêë3]-sq[uúùûü][iíìîï1]rt[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2450,7 +2458,7 @@
   },
   {
     "id": "masturbate",
-    "match": "ma*stu*rbate|ma*stu*rb8|masturbation|masturbating|masterbate|masterb8",
+    "match": "m[aáàâãä4]*st[uúùûü]*rb[aáàâãä4]t[eéèêë3]|m[aáàâãä4]*st[uúùûü]*rb8|m[aáàâãä4]st[uúùûü]rb[aáàâãä4]t[iíìîï1][oóòôõö0][nñ]|m[aáàâãä4]st[uúùûü]rb[aáàâãä4]t[iíìîï1][nñ]g|m[aáàâãä4]st[eéèêë3]rb[aáàâãä4]t[eéèêë3]|m[aáàâãä4]st[eéèêë3]rb8",
     "tags": [
       "sexual"
     ],
@@ -2458,7 +2466,7 @@
   },
   {
     "id": "mayonnaise-monkey",
-    "match": "mayonnaise monkey|mayonnaise monkies",
+    "match": "m[aáàâãä4]y[oóòôõö0][nñ][nñ][aáàâãä4][iíìîï1]s[eéèêë3] m[oóòôõö0][nñ]k[eéèêë3]y|m[aáàâãä4]y[oóòôõö0][nñ][nñ][aáàâãä4][iíìîï1]s[eéèêë3] m[oóòôõö0][nñ]k[iíìîï1][eéèêë3]s",
     "tags": [
       "racial"
     ],
@@ -2474,7 +2482,7 @@
   },
   {
     "id": "meat-masseuse",
-    "match": "meat masseuse",
+    "match": "m[eéèêë3][aáàâãä4]t m[aáàâãä4]ss[eéèêë3][uúùûü]s[eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -2482,7 +2490,7 @@
   },
   {
     "id": "meatspin",
-    "match": "meatspin|meat spin",
+    "match": "m[eéèêë3][aáàâãä4]tsp[iíìîï1][nñ]|m[eéèêë3][aáàâãä4]t sp[iíìîï1][nñ]",
     "tags": [
       "shock"
     ],
@@ -2490,7 +2498,7 @@
   },
   {
     "id": "menage-a-trois",
-    "match": "menage a trois|menage-a-trois|menages a trois|menages-a-trois",
+    "match": "m[eéèêë3][nñ][aáàâãä4]g[eéèêë3] [aáàâãä4] tr[oóòôõö0][iíìîï1]s|m[eéèêë3][nñ][aáàâãä4]g[eéèêë3]-[aáàâãä4]-tr[oóòôõö0][iíìîï1]s|m[eéèêë3][nñ][aáàâãä4]g[eéèêë3]s [aáàâãä4] tr[oóòôõö0][iíìîï1]s|m[eéèêë3][nñ][aáàâãä4]g[eéèêë3]s-[aáàâãä4]-tr[oóòôõö0][iíìîï1]s",
     "tags": [
       "sexual"
     ],
@@ -2498,7 +2506,7 @@
   },
   {
     "id": "menophilia",
-    "match": "menophilia|menophile",
+    "match": "m[eéèêë3][nñ][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|m[eéèêë3][nñ][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2506,7 +2514,7 @@
   },
   {
     "id": "mexican-pancake",
-    "match": "mexican pancake",
+    "match": "m[eéèêë3]x[iíìîï1]c[aáàâãä4][nñ] p[aáàâãä4][nñ]c[aáàâãä4]k[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2514,7 +2522,7 @@
   },
   {
     "id": "milwaukee-blizzard",
-    "match": "milwaukee blizzard",
+    "match": "m[iíìîï1]lw[aáàâãä4][uúùûü]k[eéèêë3][eéèêë3] bl[iíìîï1]zz[aáàâãä4]rd",
     "tags": [
       "sexual"
     ],
@@ -2522,7 +2530,7 @@
   },
   {
     "id": "missionary-position",
-    "match": "missionary position",
+    "match": "m[iíìîï1]ss[iíìîï1][oóòôõö0][nñ][aáàâãä4]ry p[oóòôõö0]s[iíìîï1]t[iíìîï1][oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -2530,7 +2538,7 @@
   },
   {
     "id": "mississippi-birdbath",
-    "match": "mississippi birdbath",
+    "match": "m[iíìîï1]ss[iíìîï1]ss[iíìîï1]pp[iíìîï1] b[iíìîï1]rdb[aáàâãä4]th",
     "tags": [
       "sexual"
     ],
@@ -2538,7 +2546,7 @@
   },
   {
     "id": "mr-hands",
-    "match": "mr. hands|mr hands|mrhands",
+    "match": "mr. h[aáàâãä4][nñ]ds|mr h[aáàâãä4][nñ]ds|mrh[aáàâãä4][nñ]ds",
     "tags": [
       "shock"
     ],
@@ -2546,7 +2554,7 @@
   },
   {
     "id": "muff-diver",
-    "match": "muff diver|muff-diver|muffdiver",
+    "match": "m[uúùûü]ff d[iíìîï1]v[eéèêë3]r|m[uúùûü]ff-d[iíìîï1]v[eéèêë3]r|m[uúùûü]ffd[iíìîï1]v[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -2554,7 +2562,7 @@
   },
   {
     "id": "muffdiving",
-    "match": "muffdiving|muff diving|muffdiver|muff diver",
+    "match": "m[uúùûü]ffd[iíìîï1]v[iíìîï1][nñ]g|m[uúùûü]ff d[iíìîï1]v[iíìîï1][nñ]g|m[uúùûü]ffd[iíìîï1]v[eéèêë3]r|m[uúùûü]ff d[iíìîï1]v[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -2562,7 +2570,7 @@
   },
   {
     "id": "muscle-mary",
-    "match": "muscle mary",
+    "match": "m[uúùûü]scl[eéèêë3] m[aáàâãä4]ry",
     "tags": [
       "lgbtq"
     ],
@@ -2570,7 +2578,7 @@
   },
   {
     "id": "mvtube",
-    "match": "mvtube",
+    "match": "mvt[uúùûü]b[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2578,7 +2586,7 @@
   },
   {
     "id": "nambla",
-    "match": "nambla",
+    "match": "[nñ][aáàâãä4]mbl[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -2586,7 +2594,7 @@
   },
   {
     "id": "necrophilia",
-    "match": "necrophilia|necrophile",
+    "match": "[nñ][eéèêë3]cr[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[nñ][eéèêë3]cr[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2594,7 +2602,7 @@
   },
   {
     "id": "negro",
-    "match": "negro",
+    "match": "[nñ][eéèêë3]gr[oóòôõö0]",
     "tags": [
       "racial"
     ],
@@ -2602,7 +2610,7 @@
   },
   {
     "id": "neonazi",
-    "match": "neonazi|neo-nazi|neo nazi",
+    "match": "[nñ][eéèêë3][oóòôõö0][nñ][aáàâãä4]z[iíìîï1]|[nñ][eéèêë3][oóòôõö0]-[nñ][aáàâãä4]z[iíìîï1]|[nñ][eéèêë3][oóòôõö0] [nñ][aáàâãä4]z[iíìîï1]",
     "tags": [
       "racial"
     ],
@@ -2610,7 +2618,7 @@
   },
   {
     "id": "nigerian-hurricane",
-    "match": "nigerian hurricane",
+    "match": "[nñ][iíìîï1]g[eéèêë3]r[iíìîï1][aáàâãä4][nñ] h[uúùûü]rr[iíìîï1]c[aáàâãä4][nñ][eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2618,7 +2626,7 @@
   },
   {
     "id": "nigga",
-    "match": "(ni*gg*a)|(ni.*gg.*s)|(nignog)|(nig nog)",
+    "match": "(([nñ]+)([iíìîï1]+)(g+)([aáàâãä4]+))|([nñ][iíìîï1]g[nñ][oóòôõö0]g)|([nñ][iíìîï1]g [nñ][oóòôõö0]g)",
     "tags": [
       "racial"
     ],
@@ -2626,7 +2634,7 @@
   },
   {
     "id": "nigger",
-    "match": "ni*gg*e*r",
+    "match": "([nñ]+)([iíìîï1]+)(g+)([eéèêë3]+)(r+)",
     "tags": [
       "racial"
     ],
@@ -2634,7 +2642,7 @@
   },
   {
     "id": "nipple-clamps",
-    "match": "nipple clamps|nipple clamp",
+    "match": "[nñ][iíìîï1]ppl[eéèêë3] cl[aáàâãä4]mps|[nñ][iíìîï1]ppl[eéèêë3] cl[aáàâãä4]mp",
     "tags": [
       "sexual"
     ],
@@ -2642,7 +2650,7 @@
   },
   {
     "id": "nipples",
-    "match": "nipples|nipple",
+    "match": "[nñ][iíìîï1]ppl[eéèêë3]s|[nñ][iíìîï1]ppl[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2650,7 +2658,7 @@
   },
   {
     "id": "nude",
-    "match": "nude|nudity",
+    "match": "[nñ][uúùûü]d[eéèêë3]|[nñ][uúùûü]d[iíìîï1]ty",
     "tags": [
       "sexual"
     ],
@@ -2658,7 +2666,7 @@
   },
   {
     "id": "nutten",
-    "match": "nutten",
+    "match": "[nñ][uúùûü]tt[eéèêë3][nñ]",
     "tags": [
       "sexual"
     ],
@@ -2666,7 +2674,7 @@
   },
   {
     "id": "nymphomania",
-    "match": "nymphomania|nymphomaniac|nympho|nimphomania|nimphomaniac|nimpho",
+    "match": "[nñ]ymph[oóòôõö0]m[aáàâãä4][nñ][iíìîï1][aáàâãä4]|[nñ]ymph[oóòôõö0]m[aáàâãä4][nñ][iíìîï1][aáàâãä4]c|[nñ]ymph[oóòôõö0]|[nñ][iíìîï1]mph[oóòôõö0]m[aáàâãä4][nñ][iíìîï1][aáàâãä4]|[nñ][iíìîï1]mph[oóòôõö0]m[aáàâãä4][nñ][iíìîï1][aáàâãä4]c|[nñ][iíìîï1]mph[oóòôõö0]",
     "tags": [
       "sexual"
     ],
@@ -2674,7 +2682,7 @@
   },
   {
     "id": "octopussy",
-    "match": "octopussy",
+    "match": "[oóòôõö0]ct[oóòôõö0]p[uúùûü]ssy",
     "tags": [
       "sexual"
     ],
@@ -2682,7 +2690,7 @@
   },
   {
     "id": "oklahomo",
-    "match": "oklahomo",
+    "match": "[oóòôõö0]kl[aáàâãä4]h[oóòôõö0]m[oóòôõö0]",
     "tags": [
       "lgbtq"
     ],
@@ -2690,7 +2698,7 @@
   },
   {
     "id": "omorashi",
-    "match": "omorashi",
+    "match": "[oóòôõö0]m[oóòôõö0]r[aáàâãä4]sh[iíìîï1]",
     "tags": [
       "sexual"
     ],
@@ -2698,7 +2706,7 @@
   },
   {
     "id": "onlyfans",
-    "match": "onlyfans|only fans",
+    "match": "[oóòôõö0][nñ]lyf[aáàâãä4][nñ]s|[oóòôõö0][nñ]ly f[aáàâãä4][nñ]s",
     "tags": [
       "sexual"
     ],
@@ -2706,7 +2714,7 @@
   },
   {
     "id": "orgasm",
-    "match": "orgasm|orgasms|orgasmic",
+    "match": "[oóòôõö0]rg[aáàâãä4]sm|[oóòôõö0]rg[aáàâãä4]sms|[oóòôõö0]rg[aáàâãä4]sm[iíìîï1]c",
     "tags": [
       "sexual"
     ],
@@ -2714,7 +2722,7 @@
   },
   {
     "id": "paedophilia|pedophilia",
-    "match": "paedophilia|pedophilia|paedophile|pedophile",
+    "match": "p[aáàâãä4][eéèêë3]d[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[eéèêë3]d[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[aáàâãä4][eéèêë3]d[oóòôõö0]ph[iíìîï1]l[eéèêë3]|p[eéèêë3]d[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2722,7 +2730,7 @@
   },
   {
     "id": "painslut",
-    "match": "painslut|pain slut",
+    "match": "p[aáàâãä4][iíìîï1][nñ]sl[uúùûü]t|p[aáàâãä4][iíìîï1][nñ] sl[uúùûü]t",
     "tags": [
       "sexual"
     ],
@@ -2730,7 +2738,7 @@
   },
   {
     "id": "paki",
-    "match": "paki",
+    "match": "p[aáàâãä4]k[iíìîï1]",
     "tags": [
       "racial"
     ],
@@ -2741,7 +2749,7 @@
   },
   {
     "id": "panamanian-petting-zoo",
-    "match": "panamanian petting zoo",
+    "match": "p[aáàâãä4][nñ][aáàâãä4]m[aáàâãä4][nñ][iíìîï1][aáàâãä4][nñ] p[eéèêë3]tt[iíìîï1][nñ]g z[oóòôõö0][oóòôõö0]",
     "tags": [
       "sexual"
     ],
@@ -2749,7 +2757,7 @@
   },
   {
     "id": "pansy",
-    "match": "pansy",
+    "match": "p[aáàâãä4][nñ]sy",
     "tags": [
       "lgbtq"
     ],
@@ -2757,7 +2765,7 @@
   },
   {
     "id": "panties",
-    "match": "panties",
+    "match": "p[aáàâãä4][nñ]t[iíìîï1][eéèêë3]s",
     "tags": [
       "sexual"
     ],
@@ -2765,7 +2773,7 @@
   },
   {
     "id": "parthenophilia",
-    "match": "parthenophilia|parthenophile",
+    "match": "p[aáàâãä4]rth[eéèêë3][nñ][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[aáàâãä4]rth[eéèêë3][nñ][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2773,7 +2781,7 @@
   },
   {
     "id": "pedobear",
-    "match": "pedobear|paedobear|pedo bear|paedo bear",
+    "match": "p[eéèêë3]d[oóòôõö0]b[eéèêë3][aáàâãä4]r|p[aáàâãä4][eéèêë3]d[oóòôõö0]b[eéèêë3][aáàâãä4]r|p[eéèêë3]d[oóòôõö0] b[eéèêë3][aáàâãä4]r|p[aáàâãä4][eéèêë3]d[oóòôõö0] b[eéèêë3][aáàâãä4]r",
     "tags": [
       "sexual"
     ],
@@ -2781,7 +2789,7 @@
   },
   {
     "id": "pegging",
-    "match": "pegging",
+    "match": "p[eéèêë3]gg[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2789,7 +2797,7 @@
   },
   {
     "id": "penis",
-    "match": "pe*ni*s",
+    "match": "\\b(p+)([eéèêë3]+)([nñ]+)([iíìîï1]+)(s+)",
     "tags": [
       "sexual"
     ],
@@ -2800,7 +2808,7 @@
   },
   {
     "id": "peterpuffer",
-    "match": "peterpuffer|peter-puffer|peter puffer",
+    "match": "p[eéèêë3]t[eéèêë3]rp[uúùûü]ff[eéèêë3]r|p[eéèêë3]t[eéèêë3]r-p[uúùûü]ff[eéèêë3]r|p[eéèêë3]t[eéèêë3]r p[uúùûü]ff[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -2808,7 +2816,7 @@
   },
   {
     "id": "petrol-sniffer",
-    "match": "petrol sniffer|petrol-sniffer|petrolsniffer",
+    "match": "p[eéèêë3]tr[oóòôõö0]l s[nñ][iíìîï1]ff[eéèêë3]r|p[eéèêë3]tr[oóòôõö0]l-s[nñ][iíìîï1]ff[eéèêë3]r|p[eéèêë3]tr[oóòôõö0]ls[nñ][iíìîï1]ff[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -2816,7 +2824,7 @@
   },
   {
     "id": "phagophilia",
-    "match": "phagophilia|phagophile",
+    "match": "ph[aáàâãä4]g[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|ph[aáàâãä4]g[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2824,7 +2832,7 @@
   },
   {
     "id": "piece-of-shit",
-    "match": "piece of shit|pieces of shit",
+    "match": "p[iíìîï1][eéèêë3]c[eéèêë3] [oóòôõö0]f sh[iíìîï1]t|p[iíìîï1][eéèêë3]c[eéèêë3]s [oóòôõö0]f sh[iíìîï1]t",
     "tags": [
       "general"
     ],
@@ -2832,7 +2840,7 @@
   },
   {
     "id": "pikey",
-    "match": "pikey|pikeys",
+    "match": "p[iíìîï1]k[eéèêë3]y|p[iíìîï1]k[eéèêë3]ys",
     "tags": [
       "racial"
     ],
@@ -2840,7 +2848,7 @@
   },
   {
     "id": "piss-off",
-    "match": "pi*ss* off",
+    "match": "p[iíìîï1]*ss* [oóòôõö0]ff",
     "tags": [
       "general"
     ],
@@ -2848,7 +2856,7 @@
   },
   {
     "id": "piss-pig",
-    "match": "piss pig|pisspig",
+    "match": "p[iíìîï1]ss p[iíìîï1]g|p[iíìîï1]ssp[iíìîï1]g",
     "tags": [
       "sexual"
     ],
@@ -2856,7 +2864,7 @@
   },
   {
     "id": "piss-pig",
-    "match": "piss pig|pisspig",
+    "match": "p[iíìîï1]ss p[iíìîï1]g|p[iíìîï1]ssp[iíìîï1]g",
     "tags": [
       "lgbtq"
     ],
@@ -2864,7 +2872,7 @@
   },
   {
     "id": "pissed-off",
-    "match": "pi*ss*ed off",
+    "match": "p[iíìîï1]*ss*[eéèêë3]d [oóòôõö0]ff",
     "tags": [
       "general"
     ],
@@ -2872,7 +2880,7 @@
   },
   {
     "id": "pissing",
-    "match": "pissing",
+    "match": "p[iíìîï1]ss[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -2880,7 +2888,7 @@
   },
   {
     "id": "playboy",
-    "match": "playboy",
+    "match": "pl[aáàâãä4]yb[oóòôõö0]y",
     "tags": [
       "sexual"
     ],
@@ -2888,7 +2896,7 @@
   },
   {
     "id": "pleasure-chest",
-    "match": "pleasure chest",
+    "match": "pl[eéèêë3][aáàâãä4]s[uúùûü]r[eéèêë3] ch[eéèêë3]st",
     "tags": [
       "sexual"
     ],
@@ -2896,7 +2904,7 @@
   },
   {
     "id": "pnigerophilia|pnigophilia",
-    "match": "pnigerophilia|pnigophilia|pnigerophile|pnigophile",
+    "match": "p[nñ][iíìîï1]g[eéèêë3]r[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[nñ][iíìîï1]g[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[nñ][iíìîï1]g[eéèêë3]r[oóòôõö0]ph[iíìîï1]l[eéèêë3]|p[nñ][iíìîï1]g[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2904,7 +2912,7 @@
   },
   {
     "id": "poinephilia",
-    "match": "poinephilia|poinephile",
+    "match": "p[oóòôõö0][iíìîï1][nñ][eéèêë3]ph[iíìîï1]l[iíìîï1][aáàâãä4]|p[oóòôõö0][iíìîï1][nñ][eéèêë3]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -2912,7 +2920,7 @@
   },
   {
     "id": "ponyboy",
-    "match": "ponyboy|pony-boy|pony boy",
+    "match": "p[oóòôõö0][nñ]yb[oóòôõö0]y|p[oóòôõö0][nñ]y-b[oóòôõö0]y|p[oóòôõö0][nñ]y b[oóòôõö0]y",
     "tags": [
       "sexual"
     ],
@@ -2920,7 +2928,7 @@
   },
   {
     "id": "ponygirl",
-    "match": "ponygirl|pony-girl|pony girl",
+    "match": "p[oóòôõö0][nñ]yg[iíìîï1]rl|p[oóòôõö0][nñ]y-g[iíìîï1]rl|p[oóòôõö0][nñ]y g[iíìîï1]rl",
     "tags": [
       "sexual"
     ],
@@ -2928,7 +2936,7 @@
   },
   {
     "id": "ponyplay",
-    "match": "ponyplay|pony-play",
+    "match": "p[oóòôõö0][nñ]ypl[aáàâãä4]y|p[oóòôõö0][nñ]y-pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -2936,7 +2944,7 @@
   },
   {
     "id": "poof",
-    "match": "poof",
+    "match": "p[oóòôõö0][oóòôõö0]f",
     "tags": [
       "lgbtq"
     ],
@@ -2961,7 +2969,7 @@
   },
   {
     "id": "poon",
-    "match": "poon|poontang",
+    "match": "(\\b(p[oóòôõö0][oóòôõö0][nñ])|p[oóòôõö0][oóòôõö0][nñ]t[aáàâãä4][nñ]g)",
     "tags": [
       "sexual"
     ],
@@ -3020,7 +3028,7 @@
   },
   {
     "id": "poop-chute",
-    "match": "poop chute|poopchute",
+    "match": "p[oóòôõö0][oóòôõö0]p ch[uúùûü]t[eéèêë3]|p[oóòôõö0][oóòôõö0]pch[uúùûü]t[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3028,7 +3036,7 @@
   },
   {
     "id": "pornhub",
-    "match": "pornhub|porn hub",
+    "match": "p[oóòôõö0]r[nñ]h[uúùûü]b|p[oóòôõö0]r[nñ] h[uúùûü]b",
     "tags": [
       "sexual"
     ],
@@ -3036,7 +3044,7 @@
   },
   {
     "id": "pornography",
-    "match": "pornography|pornographic|porno|pornos|porn",
+    "match": "p[oóòôõö0]r[nñ][oóòôõö0]gr[aáàâãä4]phy|p[oóòôõö0]r[nñ][oóòôõö0]gr[aáàâãä4]ph[iíìîï1]c|p[oóòôõö0]r[nñ][oóòôõö0]|p[oóòôõö0]r[nñ][oóòôõö0]s|p[oóòôõö0]r[nñ]",
     "tags": [
       "sexual"
     ],
@@ -3044,7 +3052,7 @@
   },
   {
     "id": "potato-queen",
-    "match": "potato queen",
+    "match": "p[oóòôõö0]t[aáàâãä4]t[oóòôõö0] q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -3052,7 +3060,7 @@
   },
   {
     "id": "prince-albert-piercing",
-    "match": "prince albert piercing",
+    "match": "pr[iíìîï1][nñ]c[eéèêë3] [aáàâãä4]lb[eéèêë3]rt p[iíìîï1][eéèêë3]rc[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3060,7 +3068,7 @@
   },
   {
     "id": "proctophilia",
-    "match": "proctophilia|proctophile",
+    "match": "pr[oóòôõö0]ct[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|pr[oóòôõö0]ct[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3068,7 +3076,7 @@
   },
   {
     "id": "pubes",
-    "match": "pubes",
+    "match": "p[uúùûü]b[eéèêë3]s",
     "tags": [
       "sexual"
     ],
@@ -3076,7 +3084,7 @@
   },
   {
     "id": "punani",
-    "match": "pu*na*ni|punany",
+    "match": "p[uúùûü]*[nñ][aáàâãä4]*[nñ][iíìîï1]|p[uúùûü][nñ][aáàâãä4][nñ]y",
     "tags": [
       "sexual"
     ],
@@ -3084,7 +3092,7 @@
   },
   {
     "id": "pussy",
-    "match": "pu*ss*y",
+    "match": "(p+)([uúùûü]+)(s+)(y+)",
     "tags": [
       "general"
     ],
@@ -3092,7 +3100,7 @@
   },
   {
     "id": "pussy-puncher",
-    "match": "pussy puncher|pussy-puncher|pussypuncher",
+    "match": "p[uúùûü]ssy p[uúùûü][nñ]ch[eéèêë3]r|p[uúùûü]ssy-p[uúùûü][nñ]ch[eéèêë3]r|p[uúùûü]ssyp[uúùûü][nñ]ch[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -3100,7 +3108,7 @@
   },
   {
     "id": "queef",
-    "match": "queef|queaf",
+    "match": "q[uúùûü][eéèêë3][eéèêë3]f|q[uúùûü][eéèêë3][aáàâãä4]f",
     "tags": [
       "sexual"
     ],
@@ -3108,7 +3116,7 @@
   },
   {
     "id": "quim",
-    "match": "quim",
+    "match": "q[uúùûü][iíìîï1]m",
     "tags": [
       "sexual"
     ],
@@ -3116,7 +3124,7 @@
   },
   {
     "id": "raghead",
-    "match": "raghead|rag head|ragheads|rag heads",
+    "match": "r[aáàâãä4]gh[eéèêë3][aáàâãä4]d|r[aáàâãä4]g h[eéèêë3][aáàâãä4]d|r[aáàâãä4]gh[eéèêë3][aáàâãä4]ds|r[aáàâãä4]g h[eéèêë3][aáàâãä4]ds",
     "tags": [
       "religious"
     ],
@@ -3124,7 +3132,7 @@
   },
   {
     "id": "ramen-yarmulke",
-    "match": "ramen yarmulke",
+    "match": "r[aáàâãä4]m[eéèêë3][nñ] y[aáàâãä4]rm[uúùûü]lk[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3132,7 +3140,7 @@
   },
   {
     "id": "rape",
-    "match": "rape",
+    "match": "\\b(r+[aáàâãä4]+p+[eéèêë3]+)",
     "tags": [
       "sexual"
     ],
@@ -3140,7 +3148,7 @@
   },
   {
     "id": "raping",
-    "match": "raping|rapist",
+    "match": "r[aáàâãä4]p[iíìîï1][nñ]g|r[aáàâãä4]p[iíìîï1]st",
     "tags": [
       "sexual"
     ],
@@ -3148,7 +3156,7 @@
   },
   {
     "id": "rectum",
-    "match": "rectum",
+    "match": "r[eéèêë3]ct[uúùûü]m",
     "tags": [
       "sexual"
     ],
@@ -3156,7 +3164,7 @@
   },
   {
     "id": "retard",
-    "match": "retard|retarded",
+    "match": "r[eéèêë3]t[aáàâãä4]rd|r[eéèêë3]t[aáàâãä4]rd[eéèêë3]d",
     "tags": [
       "general"
     ],
@@ -3164,7 +3172,7 @@
   },
   {
     "id": "reverse-cowgirl",
-    "match": "reverse cowgirl",
+    "match": "r[eéèêë3]v[eéèêë3]rs[eéèêë3] c[oóòôõö0]wg[iíìîï1]rl",
     "tags": [
       "sexual"
     ],
@@ -3172,7 +3180,7 @@
   },
   {
     "id": "rhabdophilia",
-    "match": "rhabdophilia|rhabdophile",
+    "match": "rh[aáàâãä4]bd[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|rh[aáàâãä4]bd[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3180,7 +3188,7 @@
   },
   {
     "id": "rhypophilia",
-    "match": "rhypophilia|rhypophile",
+    "match": "rhyp[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|rhyp[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3188,7 +3196,7 @@
   },
   {
     "id": "rice-queen",
-    "match": "rice queen",
+    "match": "r[iíìîï1]c[eéèêë3] q[uúùûü][eéèêë3][eéèêë3][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -3196,7 +3204,7 @@
   },
   {
     "id": "rimjob",
-    "match": "rimjob|rimming",
+    "match": "r[iíìîï1]mj[oóòôõö0]b|r[iíìîï1]mm[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3204,7 +3212,7 @@
   },
   {
     "id": "ring-raider",
-    "match": "ring raider|ringraider",
+    "match": "r[iíìîï1][nñ]g r[aáàâãä4][iíìîï1]d[eéèêë3]r|r[iíìîï1][nñ]gr[aáàâãä4][iíìîï1]d[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -3212,7 +3220,7 @@
   },
   {
     "id": "rusty-trombone",
-    "match": "rusty trombone",
+    "match": "r[uúùûü]sty tr[oóòôõö0]mb[oóòôõö0][nñ][eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3220,7 +3228,7 @@
   },
   {
     "id": "sand-nigger",
-    "match": "sand ni*gg*e*r|sand-ni*gg*e*r|sandni*gg*e*r",
+    "match": "s[aáàâãä4][nñ]d [nñ][iíìîï1]*gg*[eéèêë3]*r|s[aáàâãä4][nñ]d-[nñ][iíìîï1]*gg*[eéèêë3]*r|s[aáàâãä4][nñ]d[nñ][iíìîï1]*gg*[eéèêë3]*r",
     "tags": [
       "racial"
     ],
@@ -3228,7 +3236,7 @@
   },
   {
     "id": "santorum",
-    "match": "santorum",
+    "match": "s[aáàâãä4][nñ]t[oóòôõö0]r[uúùûü]m",
     "tags": [
       "sexual"
     ],
@@ -3236,7 +3244,7 @@
   },
   {
     "id": "scatophilia",
-    "match": "scatophilia|scatophile",
+    "match": "sc[aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|sc[aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3244,7 +3252,7 @@
   },
   {
     "id": "schlong",
-    "match": "schlong|shlong",
+    "match": "schl[oóòôõö0][nñ]g|shl[oóòôõö0][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3252,7 +3260,7 @@
   },
   {
     "id": "scissoring",
-    "match": "scissoring",
+    "match": "sc[iíìîï1]ss[oóòôõö0]r[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3260,7 +3268,7 @@
   },
   {
     "id": "semen",
-    "match": "semen",
+    "match": "s[eéèêë3]m[eéèêë3][nñ]",
     "tags": [
       "sexual"
     ],
@@ -3332,7 +3340,7 @@
   },
   {
     "id": "seplophilia",
-    "match": "seplophilia|seplophile",
+    "match": "s[eéèêë3]pl[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|s[eéèêë3]pl[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3340,7 +3348,7 @@
   },
   {
     "id": "sex",
-    "match": "sex",
+    "match": "\\b(s+)([eéèêë3]+)(x+)",
     "tags": [
       "sexual"
     ],
@@ -3348,7 +3356,7 @@
   },
   {
     "id": "shaved pussy",
-    "match": "shaved pussy|shaved beaver",
+    "match": "sh[aáàâãä4]v[eéèêë3]d p[uúùûü]ssy|sh[aáàâãä4]v[eéèêë3]d b[eéèêë3][aáàâãä4]v[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -3356,7 +3364,7 @@
   },
   {
     "id": "sheepshagger",
-    "match": "sheepshagger|sheep shagger",
+    "match": "sh[eéèêë3][eéèêë3]psh[aáàâãä4]gg[eéèêë3]r|sh[eéèêë3][eéèêë3]p sh[aáàâãä4]gg[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -3364,7 +3372,7 @@
   },
   {
     "id": "shemale",
-    "match": "shemale|she-male|she male",
+    "match": "sh[eéèêë3]m[aáàâãä4]l[eéèêë3]|sh[eéèêë3]-m[aáàâãä4]l[eéèêë3]|sh[eéèêë3] m[aáàâãä4]l[eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -3372,7 +3380,7 @@
   },
   {
     "id": "shibari",
-    "match": "shibari",
+    "match": "sh[iíìîï1]b[aáàâãä4]r[iíìîï1]",
     "tags": [
       "sexual"
     ],
@@ -3380,7 +3388,7 @@
   },
   {
     "id": "shit",
-    "match": "sh*i*t",
+    "match": "(\\b)(s+h+[iíìîï1]+t+)([eéèêë3]+|\\b)",
     "tags": [
       "general"
     ],
@@ -3393,8 +3401,16 @@
     ]
   },
   {
+    "id": "shitface",
+    "match": "sh[iíìîï1]tf[aáàâãä4]c[eéèêë3]",
+    "tags": [
+      "general"
+    ],
+    "severity": 2
+  },
+  {
     "id": "shithead",
-    "match": "shithead|shit head",
+    "match": "sh[iíìîï1]th[eéèêë3][aáàâãä4]d|sh[iíìîï1]t h[eéèêë3][aáàâãä4]d",
     "tags": [
       "general"
     ],
@@ -3402,7 +3418,7 @@
   },
   {
     "id": "shitty",
-    "match": "shi*tt*y",
+    "match": "\\b(sh)([iíìîï1]+)(t)(t+)(y+)",
     "tags": [
       "general"
     ],
@@ -3410,7 +3426,7 @@
   },
   {
     "id": "shota",
-    "match": "shota",
+    "match": "sh[oóòôõö0]t[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -3418,7 +3434,7 @@
   },
   {
     "id": "shrimping",
-    "match": "shrimping",
+    "match": "shr[iíìîï1]mp[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3426,7 +3442,7 @@
   },
   {
     "id": "sissy",
-    "match": "sissy",
+    "match": "s[iíìîï1]ssy",
     "tags": [
       "lgbtq"
     ],
@@ -3434,7 +3450,7 @@
   },
   {
     "id": "skeet",
-    "match": "skeet",
+    "match": "sk[eéèêë3][eéèêë3]t",
     "tags": [
       "sexual"
     ],
@@ -3442,7 +3458,7 @@
   },
   {
     "id": "skittles-harvest",
-    "match": "skittles harvest|skittle harvest",
+    "match": "sk[iíìîï1]ttl[eéèêë3]s h[aáàâãä4]rv[eéèêë3]st|sk[iíìîï1]ttl[eéèêë3] h[aáàâãä4]rv[eéèêë3]st",
     "tags": [
       "sexual"
     ],
@@ -3450,7 +3466,7 @@
   },
   {
     "id": "slanteye",
-    "match": "slanteye|slant-eye|slant eye",
+    "match": "sl[aáàâãä4][nñ]t[eéèêë3]y[eéèêë3]|sl[aáàâãä4][nñ]t-[eéèêë3]y[eéèêë3]|sl[aáàâãä4][nñ]t [eéèêë3]y[eéèêë3]",
     "tags": [
       "racial"
     ],
@@ -3458,7 +3474,7 @@
   },
   {
     "id": "snatch",
-    "match": "snatch",
+    "match": "h[eéèêë3]r s[nñ][aáàâãä4]tch",
     "tags": [
       "sexual"
     ],
@@ -3466,7 +3482,7 @@
   },
   {
     "id": "snowballing",
-    "match": "snowballing",
+    "match": "s[nñ][oóòôõö0]wb[aáàâãä4]ll[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3474,7 +3490,7 @@
   },
   {
     "id": "sod-off",
-    "match": "sod off",
+    "match": "s[oóòôõö0]d [oóòôõö0]ff",
     "tags": [
       "general"
     ],
@@ -3482,7 +3498,7 @@
   },
   {
     "id": "sodding",
-    "match": "sodding",
+    "match": "s[oóòôõö0]dd[iíìîï1][nñ]g",
     "tags": [
       "general"
     ],
@@ -3490,7 +3506,7 @@
   },
   {
     "id": "sodomize",
-    "match": "sodomize|sodomise|sodomist|sodomy",
+    "match": "s[oóòôõö0]d[oóòôõö0]m[iíìîï1]z[eéèêë3]|s[oóòôõö0]d[oóòôõö0]m[iíìîï1]s[eéèêë3]|s[oóòôõö0]d[oóòôõö0]m[iíìîï1]st|s[oóòôõö0]d[oóòôõö0]my",
     "tags": [
       "sexual"
     ],
@@ -3498,7 +3514,7 @@
   },
   {
     "id": "spastic",
-    "match": "spastic",
+    "match": "sp[aáàâãä4]st[iíìîï1]c",
     "tags": [
       "general"
     ],
@@ -3506,7 +3522,7 @@
   },
   {
     "id": "spearchucker",
-    "match": "spearchucker",
+    "match": "sp[eéèêë3][aáàâãä4]rch[uúùûü]ck[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -3514,7 +3530,7 @@
   },
   {
     "id": "spic",
-    "match": "spic|spics|spick|spicks",
+    "match": "sp[iíìîï1]c|sp[iíìîï1]cs|sp[iíìîï1]ck|sp[iíìîï1]cks",
     "tags": [
       "racial"
     ],
@@ -3615,7 +3631,7 @@
   },
   {
     "id": "spicy-gringo",
-    "match": "spicy gringo",
+    "match": "sp[iíìîï1]cy gr[iíìîï1][nñ]g[oóòôõö0]",
     "tags": [
       "sexual"
     ],
@@ -3623,7 +3639,7 @@
   },
   {
     "id": "splooge",
-    "match": "splooge|splooge moose|spooge",
+    "match": "spl[oóòôõö0][oóòôõö0]g[eéèêë3]|spl[oóòôõö0][oóòôõö0]g[eéèêë3] m[oóòôõö0][oóòôõö0]s[eéèêë3]|sp[oóòôõö0][oóòôõö0]g[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3631,7 +3647,7 @@
   },
   {
     "id": "spunk",
-    "match": "spunk",
+    "match": "sp[uúùûü][nñ]k",
     "tags": [
       "sexual"
     ],
@@ -3639,7 +3655,7 @@
   },
   {
     "id": "strap-on",
-    "match": "strap on|strap-on",
+    "match": "str[aáàâãä4]p [oóòôõö0][nñ]|str[aáàâãä4]p-[oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -3647,7 +3663,7 @@
   },
   {
     "id": "strap-on",
-    "match": "strap-on|strapon",
+    "match": "str[aáàâãä4]p-[oóòôõö0][nñ]|str[aáàâãä4]p[oóòôõö0][nñ]",
     "tags": [
       "sexual"
     ],
@@ -3655,7 +3671,7 @@
   },
   {
     "id": "strappado",
-    "match": "strappado",
+    "match": "str[aáàâãä4]pp[aáàâãä4]d[oóòôõö0]",
     "tags": [
       "sexual"
     ],
@@ -3663,7 +3679,7 @@
   },
   {
     "id": "swamp-guinea",
-    "match": "swamp guinea|swamp-guinea",
+    "match": "sw[aáàâãä4]mp g[uúùûü][iíìîï1][nñ][eéèêë3][aáàâãä4]|sw[aáàâãä4]mp-g[uúùûü][iíìîï1][nñ][eéèêë3][aáàâãä4]",
     "tags": [
       "racial"
     ],
@@ -3671,7 +3687,7 @@
   },
   {
     "id": "swastika",
-    "match": "swastika|svastika|suastika",
+    "match": "sw[aáàâãä4]st[iíìîï1]k[aáàâãä4]|sv[aáàâãä4]st[iíìîï1]k[aáàâãä4]|s[uúùûü][aáàâãä4]st[iíìîï1]k[aáàâãä4]",
     "tags": [
       "racial"
     ],
@@ -3679,7 +3695,7 @@
   },
   {
     "id": "switch-hitter",
-    "match": "switch hitter",
+    "match": "sw[iíìîï1]tch h[iíìîï1]tt[eéèêë3]r",
     "tags": [
       "lgbtq"
     ],
@@ -3687,7 +3703,7 @@
   },
   {
     "id": "t-girl",
-    "match": "t-girl|tgirl",
+    "match": "t-g[iíìîï1]rl|tg[iíìîï1]rl",
     "tags": [
       "lgbtq"
     ],
@@ -3695,7 +3711,7 @@
   },
   {
     "id": "taphephilia",
-    "match": "taphephilia|taphephile",
+    "match": "t[aáàâãä4]ph[eéèêë3]ph[iíìîï1]l[iíìîï1][aáàâãä4]|t[aáàâãä4]ph[eéèêë3]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3703,7 +3719,7 @@
   },
   {
     "id": "tea-bagging",
-    "match": "tea bagging|tea-bagging|tea bagged|tea-bagged",
+    "match": "t[eéèêë3][aáàâãä4] b[aáàâãä4]gg[iíìîï1][nñ]g|t[eéèêë3][aáàâãä4]-b[aáàâãä4]gg[iíìîï1][nñ]g|t[eéèêë3][aáàâãä4] b[aáàâãä4]gg[eéèêë3]d|t[eéèêë3][aáàâãä4]-b[aáàâãä4]gg[eéèêë3]d",
     "tags": [
       "sexual"
     ],
@@ -3711,7 +3727,7 @@
   },
   {
     "id": "thanatophilia",
-    "match": "thanatophilia|thanatophile",
+    "match": "th[aáàâãä4][nñ][aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|th[aáàâãä4][nñ][aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3719,7 +3735,7 @@
   },
   {
     "id": "threesome",
-    "match": "threesome",
+    "match": "thr[eéèêë3][eéèêë3]s[oóòôõö0]m[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3727,7 +3743,7 @@
   },
   {
     "id": "throating",
-    "match": "throating",
+    "match": "thr[oóòôõö0][aáàâãä4]t[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -3735,7 +3751,7 @@
   },
   {
     "id": "thumbzilla",
-    "match": "thumbzilla",
+    "match": "th[uúùûü]mbz[iíìîï1]ll[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -3743,7 +3759,7 @@
   },
   {
     "id": "timber-nigger",
-    "match": "timber ni*gg*e*r|timber-ni*gg*e*r|timberni*gg*e*r",
+    "match": "t[iíìîï1]mb[eéèêë3]r [nñ][iíìîï1]*gg*[eéèêë3]*r|t[iíìîï1]mb[eéèêë3]r-[nñ][iíìîï1]*gg*[eéèêë3]*r|t[iíìîï1]mb[eéèêë3]r[nñ][iíìîï1]*gg*[eéèêë3]*r",
     "tags": [
       "racial"
     ],
@@ -3751,7 +3767,7 @@
   },
   {
     "id": "tits",
-    "match": "tits",
+    "match": "t[iíìîï1]ts",
     "tags": [
       "sexual"
     ],
@@ -3764,7 +3780,7 @@
   },
   {
     "id": "titty",
-    "match": "titt*y|titt*ies",
+    "match": "\\b(t([iíìîï1]+)(t+))((y+)|((y+)(s+))|(([iíìîï1]+)([eéèêë3]+)(s+)))",
     "tags": [
       "sexual"
     ],
@@ -3772,7 +3788,7 @@
   },
   {
     "id": "topless",
-    "match": "topless",
+    "match": "t[oóòôõö0]pl[eéèêë3]ss",
     "tags": [
       "sexual"
     ],
@@ -3780,7 +3796,7 @@
   },
   {
     "id": "tosser",
-    "match": "tosser",
+    "match": "t[oóòôõö0]ss[eéèêë3]r",
     "tags": [
       "general"
     ],
@@ -3788,7 +3804,7 @@
   },
   {
     "id": "towelhead",
-    "match": "towelhead|towel-head|towel head",
+    "match": "t[oóòôõö0]w[eéèêë3]lh[eéèêë3][aáàâãä4]d|t[oóòôõö0]w[eéèêë3]l-h[eéèêë3][aáàâãä4]d|t[oóòôõö0]w[eéèêë3]l h[eéèêë3][aáàâãä4]d",
     "tags": [
       "racial"
     ],
@@ -3796,7 +3812,7 @@
   },
   {
     "id": "tranny",
-    "match": "tranny|trannie",
+    "match": "tr[aáàâãä4][nñ][nñ]y|tr[aáàâãä4][nñ][nñ][iíìîï1][eéèêë3]",
     "tags": [
       "lgbtq"
     ],
@@ -3804,7 +3820,7 @@
   },
   {
     "id": "transbian",
-    "match": "transbian",
+    "match": "tr[aáàâãä4][nñ]sb[iíìîï1][aáàâãä4][nñ]",
     "tags": [
       "lgbtq"
     ],
@@ -3812,7 +3828,7 @@
   },
   {
     "id": "traumatophilia",
-    "match": "traumatophilia|traumatophile",
+    "match": "tr[aáàâãä4][uúùûü]m[aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|tr[aáàâãä4][uúùûü]m[aáàâãä4]t[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3820,7 +3836,7 @@
   },
   {
     "id": "tribbing",
-    "match": "tribbing|tribadism",
+    "match": "tr[iíìîï1]bb[iíìîï1][nñ]g|tr[iíìîï1]b[aáàâãä4]d[iíìîï1]sm",
     "tags": [
       "sexual"
     ],
@@ -3828,7 +3844,7 @@
   },
   {
     "id": "tubgirl",
-    "match": "tubgirl|tub girl",
+    "match": "t[uúùûü]bg[iíìîï1]rl|t[uúùûü]b g[iíìîï1]rl",
     "tags": [
       "shock"
     ],
@@ -3836,7 +3852,7 @@
   },
   {
     "id": "twat",
-    "match": "twa*t",
+    "match": "\\b(t+)(w+)([aáàâãä4]+)(t+)",
     "tags": [
       "general"
     ],
@@ -3851,7 +3867,7 @@
   },
   {
     "id": "twink",
-    "match": "twink",
+    "match": "tw[iíìîï1][nñ]k",
     "tags": [
       "lgbtq"
     ],
@@ -3871,7 +3887,7 @@
   },
   {
     "id": "urethra-play",
-    "match": "urethra play",
+    "match": "[uúùûü]r[eéèêë3]thr[aáàâãä4] pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -3879,7 +3895,7 @@
   },
   {
     "id": "urophilia",
-    "match": "urophilia|urophile",
+    "match": "[uúùûü]r[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|[uúùûü]r[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3887,7 +3903,7 @@
   },
   {
     "id": "vagina",
-    "match": "vagina",
+    "match": "v[aáàâãä4]g[iíìîï1][nñ][aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -3895,7 +3911,7 @@
   },
   {
     "id": "venus-mound",
-    "match": "venus mound|mound of venus",
+    "match": "v[eéèêë3][nñ][uúùûü]s m[oóòôõö0][uúùûü][nñ]d|m[oóòôõö0][uúùûü][nñ]d [oóòôõö0]f v[eéèêë3][nñ][uúùûü]s",
     "tags": [
       "sexual"
     ],
@@ -3903,7 +3919,7 @@
   },
   {
     "id": "viagra",
-    "match": "viagra",
+    "match": "v[iíìîï1][aáàâãä4]gr[aáàâãä4]",
     "tags": [
       "sexual"
     ],
@@ -3911,7 +3927,7 @@
   },
   {
     "id": "vibrator",
-    "match": "vibrator",
+    "match": "v[iíìîï1]br[aáàâãä4]t[oóòôõö0]r",
     "tags": [
       "sexual"
     ],
@@ -3919,7 +3935,7 @@
   },
   {
     "id": "violet-wand",
-    "match": "violet wand",
+    "match": "v[iíìîï1][oóòôõö0]l[eéèêë3]t w[aáàâãä4][nñ]d",
     "tags": [
       "sexual"
     ],
@@ -3927,7 +3943,7 @@
   },
   {
     "id": "vorarephilia",
-    "match": "vorarephilia|vorarephile",
+    "match": "v[oóòôõö0]r[aáàâãä4]r[eéèêë3]ph[iíìîï1]l[iíìîï1][aáàâãä4]|v[oóòôõö0]r[aáàâãä4]r[eéèêë3]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -3935,7 +3951,7 @@
   },
   {
     "id": "voyeurweb",
-    "match": "voyeurweb",
+    "match": "v[oóòôõö0]y[eéèêë3][uúùûü]rw[eéèêë3]b",
     "tags": [
       "sexual"
     ],
@@ -3943,7 +3959,7 @@
   },
   {
     "id": "wagon-burner",
-    "match": "wagon burner|wagon-burner",
+    "match": "w[aáàâãä4]g[oóòôõö0][nñ] b[uúùûü]r[nñ][eéèêë3]r|w[aáàâãä4]g[oóòôõö0][nñ]-b[uúùûü]r[nñ][eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -3951,7 +3967,7 @@
   },
   {
     "id": "wank",
-    "match": "wa*nk",
+    "match": "w[aáàâãä4]*[nñ]k",
     "tags": [
       "sexual"
     ],
@@ -3963,7 +3979,7 @@
   },
   {
     "id": "wanker",
-    "match": "wa*nker",
+    "match": "\\b(w+)([aáàâãä4]+)([nñ]+)(k+)([eéèêë3]+)(r+)",
     "tags": [
       "general"
     ],
@@ -3971,7 +3987,7 @@
   },
   {
     "id": "wax-play",
-    "match": "wax play|wax-play",
+    "match": "w[aáàâãä4]x pl[aáàâãä4]y|w[aáàâãä4]x-pl[aáàâãä4]y",
     "tags": [
       "sexual"
     ],
@@ -3979,7 +3995,7 @@
   },
   {
     "id": "wet-dream",
-    "match": "wet dream",
+    "match": "w[eéèêë3]t dr[eéèêë3][aáàâãä4]m",
     "tags": [
       "sexual"
     ],
@@ -3987,7 +4003,7 @@
   },
   {
     "id": "wetback",
-    "match": "wetback|wet-back|wet back",
+    "match": "w[eéèêë3]tb[aáàâãä4]ck|w[eéèêë3]t-b[aáàâãä4]ck|w[eéèêë3]t b[aáàâãä4]ck",
     "tags": [
       "racial"
     ],
@@ -3995,7 +4011,7 @@
   },
   {
     "id": "white power",
-    "match": "whitepower|white-power|white power",
+    "match": "wh[iíìîï1]t[eéèêë3]p[oóòôõö0]w[eéèêë3]r|wh[iíìîï1]t[eéèêë3]-p[oóòôõö0]w[eéèêë3]r|wh[iíìîï1]t[eéèêë3] p[oóòôõö0]w[eéèêë3]r",
     "tags": [
       "racial"
     ],
@@ -4003,7 +4019,7 @@
   },
   {
     "id": "whore",
-    "match": "who*re",
+    "match": "\\b(w+)(h+)([oóòôõö0]+)(r+)([eéèêë3]+)",
     "tags": [
       "general"
     ],
@@ -4011,7 +4027,7 @@
   },
   {
     "id": "wigger",
-    "match": "wigger|whigger|wigga",
+    "match": "w[iíìîï1]gg[eéèêë3]r|wh[iíìîï1]gg[eéèêë3]r|w[iíìîï1]gg[aáàâãä4]",
     "tags": [
       "racial"
     ],
@@ -4019,7 +4035,7 @@
   },
   {
     "id": "wiitwd",
-    "match": "wiitwd",
+    "match": "w[iíìîï1][iíìîï1]twd",
     "tags": [
       "sexual"
     ],
@@ -4027,7 +4043,7 @@
   },
   {
     "id": "wog",
-    "match": "wog|wogs",
+    "match": "w[oóòôõö0]g|w[oóòôõö0]gs",
     "tags": [
       "racial"
     ],
@@ -4045,7 +4061,7 @@
   },
   {
     "id": "wolfbagging",
-    "match": "wolfbagging",
+    "match": "w[oóòôõö0]lfb[aáàâãä4]gg[iíìîï1][nñ]g",
     "tags": [
       "sexual"
     ],
@@ -4053,7 +4069,7 @@
   },
   {
     "id": "worldsex",
-    "match": "worldsex",
+    "match": "w[oóòôõö0]rlds[eéèêë3]x",
     "tags": [
       "sexual"
     ],
@@ -4061,7 +4077,7 @@
   },
   {
     "id": "wrapping-men",
-    "match": "wrapping men",
+    "match": "wr[aáàâãä4]pp[iíìîï1][nñ]g m[eéèêë3][nñ]",
     "tags": [
       "sexual"
     ],
@@ -4069,7 +4085,7 @@
   },
   {
     "id": "wrinkled-starfish",
-    "match": "wrinkled starfish",
+    "match": "wr[iíìîï1][nñ]kl[eéèêë3]d st[aáàâãä4]rf[iíìîï1]sh",
     "tags": [
       "sexual"
     ],
@@ -4077,7 +4093,7 @@
   },
   {
     "id": "xhamster",
-    "match": "xhamster",
+    "match": "xh[aáàâãä4]mst[eéèêë3]r",
     "tags": [
       "sexual"
     ],
@@ -4085,7 +4101,7 @@
   },
   {
     "id": "xnxx",
-    "match": "xnxx",
+    "match": "x[nñ]xx",
     "tags": [
       "sexual"
     ],
@@ -4093,7 +4109,7 @@
   },
   {
     "id": "xtube",
-    "match": "xtube",
+    "match": "xt[uúùûü]b[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -4101,7 +4117,7 @@
   },
   {
     "id": "xvideos",
-    "match": "xvideos",
+    "match": "xv[iíìîï1]d[eéèêë3][oóòôõö0]s",
     "tags": [
       "sexual"
     ],
@@ -4117,7 +4133,7 @@
   },
   {
     "id": "xyrophilia",
-    "match": "xyrophilia|xyrophile",
+    "match": "xyr[oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|xyr[oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],
@@ -4125,7 +4141,7 @@
   },
   {
     "id": "zipperhead",
-    "match": "zipperhead|zipper-head|zipper head",
+    "match": "z[iíìîï1]pp[eéèêë3]rh[eéèêë3][aáàâãä4]d|z[iíìîï1]pp[eéèêë3]r-h[eéèêë3][aáàâãä4]d|z[iíìîï1]pp[eéèêë3]r h[eéèêë3][aáàâãä4]d",
     "tags": [
       "racial"
     ],
@@ -4133,7 +4149,7 @@
   },
   {
     "id": "zippocat",
-    "match": "zippocat|zippo-cat|zippo cat",
+    "match": "z[iíìîï1]pp[oóòôõö0]c[aáàâãä4]t|z[iíìîï1]pp[oóòôõö0]-c[aáàâãä4]t|z[iíìîï1]pp[oóòôõö0] c[aáàâãä4]t",
     "tags": [
       "shock"
     ],
@@ -4141,7 +4157,7 @@
   },
   {
     "id": "zoophilia",
-    "match": "zoophilia|zoophile",
+    "match": "z[oóòôõö0][oóòôõö0]ph[iíìîï1]l[iíìîï1][aáàâãä4]|z[oóòôõö0][oóòôõö0]ph[iíìîï1]l[eéèêë3]",
     "tags": [
       "sexual"
     ],

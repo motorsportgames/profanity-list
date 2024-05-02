@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-const languages = ['en', 'emoji'];
+const languages = ['en', 'fr', 'es', 'de', 'emoji'];
 
 const sortByName = (a, b) => {
   const lcA = a.toLocaleLowerCase();
@@ -14,6 +14,37 @@ const sortByName = (a, b) => {
 };
 
 console.log('Processing languages...');
+
+
+const ApplyCharacterClassMatching = (regex) => {
+  const letterToCharClass = {
+    'a': "[aáàâãä4]",
+    'e': "[eéèêë3]",
+    'i': "[iíìîï1]",
+    'o': "[oóòôõö0]",
+    'u': "[uúùûü]",
+    'n': "[nñ]",
+  };
+
+  const newRegex = [];
+  for (let i = 0; i < regex.length; i++) {
+    const char = regex[i];
+    // Some regexes already have the class in it so skip those
+    if (i > 0 && regex[i - 1] === '[') {
+      newRegex.push(char);
+      continue;
+    }
+
+    // If its a regular letter replace it with the character class
+    if (letterToCharClass[char]) {
+      newRegex.push(letterToCharClass[char]);
+    } else {
+      newRegex.push(char);
+    }
+  }
+
+  return newRegex.join('');
+}
 
 languages.forEach((language) => {
   console.log(`  - Processing '${language}'...`);
@@ -67,7 +98,7 @@ languages.forEach((language) => {
 
       metaWords.push({
         id: item.id,
-        match: item.match,
+        match: ApplyCharacterClassMatching(item.match),
         tags: itemTags,
         severity: databaseOrDictionaryItem.severity || item.severity,
         exceptions: databaseOrDictionaryItem.exceptions || item.exceptions,
@@ -92,3 +123,32 @@ languages.forEach((language) => {
 });
 
 console.log('Done!');
+
+/*func ApplyCharacterClassMatching(regex string) (string, error) {
+	letterToCharClass := map[rune]string{
+		'a': "[aáàâãä]",
+		'e': "[eéèêë]",
+		'i': "[iíìîï]",
+		'o': "[oóòôõö]",
+		'u': "[uúùûü]",
+		'n': "[nñ]",
+	}
+
+	var newRegex strings.Builder
+	for i, char := range regex {
+		// Some regexes already have the class in it so skip those
+		if i > 0 && regex[i-1] == '[' {
+			newRegex.WriteRune(char)
+			continue
+		}
+
+		// If its a regular letter replace it with the character class
+		if replacement, ok := letterToCharClass[char]; ok {
+			newRegex.WriteString(replacement)
+		} else {
+			newRegex.WriteRune(char)
+		}
+	}
+
+	return newRegex.String(), nil
+}*/
