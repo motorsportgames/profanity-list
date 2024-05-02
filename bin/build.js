@@ -123,32 +123,3 @@ languages.forEach((language) => {
 });
 
 console.log('Done!');
-
-/*func ApplyCharacterClassMatching(regex string) (string, error) {
-	letterToCharClass := map[rune]string{
-		'a': "[aáàâãä]",
-		'e': "[eéèêë]",
-		'i': "[iíìîï]",
-		'o': "[oóòôõö]",
-		'u': "[uúùûü]",
-		'n': "[nñ]",
-	}
-
-	var newRegex strings.Builder
-	for i, char := range regex {
-		// Some regexes already have the class in it so skip those
-		if i > 0 && regex[i-1] == '[' {
-			newRegex.WriteRune(char)
-			continue
-		}
-
-		// If its a regular letter replace it with the character class
-		if replacement, ok := letterToCharClass[char]; ok {
-			newRegex.WriteString(replacement)
-		} else {
-			newRegex.WriteRune(char)
-		}
-	}
-
-	return newRegex.String(), nil
-}*/
