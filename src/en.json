@@ -419,7 +419,7 @@
       },
       {
         "id": "dominatrix",
-        "match": "dominatrix|domme|dommes"
+        "match": "dominatrix"
       },
       {
         "id": "donkey-punch",
@@ -671,7 +671,7 @@
       },
       {
         "id": "rimjob",
-        "match": "rimjob|rimming"
+        "match": "\\b(rimjob|rimming)\\b"
       },
       {
         "id": "rusty-trombone",
@@ -948,7 +948,7 @@
       },
       {
         "id": "cumming",
-        "match": "cumming"
+        "match": "\\bcumming\\b"
       },
       {
         "id": "dirty-pillows",
@@ -969,10 +969,6 @@
       {
         "id": "jizz",
         "match": "jizz"
-      },
-      {
-        "id": "juggs",
-        "match": "juggs"
       },
       {
         "id": "nude",
@@ -1063,7 +1059,7 @@
       },
       {
         "id": "quim",
-        "match": "quim"
+        "match": "\\bquim\\b"
       },
       {
         "id": "santorum",
@@ -1130,7 +1126,7 @@
       },
       {
         "id": "cock",
-        "match": "cock",
+        "match": "\\bcock",
         "exceptions": [
           "*ade",
           "*aded",
@@ -1320,7 +1316,7 @@
       },
       {
         "id": "tits",
-        "match": "tits",
+        "match": "\\b(t+)(i+)(t+)(s+)\\b",
         "exceptions": [
           "bush*",
           "pas*",
@@ -1374,6 +1370,10 @@
         "match": "(b+)(o+)(l+)(o+)(c+)(k+)(.|\\b|s+)"
       },
       {
+        "id": "juggs",
+        "match": "juggs"
+      },
+      {
         "id": "boob",
         "match": "\\b(bo)(o+)(b+)",
         "exceptions": [
@@ -1413,7 +1413,7 @@
       },
       {
         "id": "semen",
-        "match": "semen",
+        "match": "\\bsemen\\b",
         "exceptions": [
           "aba*t",
           "aba*ts",
@@ -1653,7 +1653,7 @@
       },
       {
         "id": "enby",
-        "match": "enby",
+        "match": "\\benby",
         "exceptions": [
           "all*",
           "as*",
@@ -1745,7 +1745,7 @@
       },
       {
         "id": "leso",
-        "match": "leso",
+        "match": "\\bleso\\b",
         "exceptions": [
           "bung*me",
           "chuck*me",
@@ -1943,7 +1943,7 @@
       },
       {
         "id": "chink",
-        "match": "chink|chinks|chinky",
+        "match": "\\b(chink|chinks|chinky)",
         "exceptions": [
           "*apin",
           "*apins",
@@ -2010,7 +2010,7 @@
       },
       {
         "id": "paki",
-        "match": "paki",
+        "match": "\\bpaki",
         "exceptions": [
           "*hi"
         ]
@@ -2189,7 +2189,7 @@
       },
       {
         "id": "hajji",
-        "match": "haji|hajj*i|hadji"
+        "match": "\\b(haji|haj(j+)i|hadji)\\b"
       },
       {
         "id": "hymie",
@@ -2325,20 +2325,6 @@
         "match": "god damn|god-damn|goddamn|god damned|god-damned|goddamned"
       },
       {
-        "id": "jesus-christ",
-        "match": "\\b(j+)(e+)(s+)(u+)(s+)(.*)(c+)(h+)(r+)(i+)(s+)(t+)\\b"
-      },
-      {
-        "id": "christ",
-        "match": "\\b(c+)(h+)(r+)(i+)(s+)(t+)\\b",
-        "exceptions": [
-          "*en",
-          "*ian",
-          "*ie",
-          "*y"
-        ]
-      },
-      {
         "id": "damn",
         "match": "\\b(d+)(a+)(m+)(n+)\\b"
       },
@@ -2358,13 +2344,6 @@
           "ec*e",
           "p*",
           "s*"
-        ]
-      },
-      {
-        "id": "jesus",
-        "match": "\\b(j+)(e+)(s+)(u+)(s+)\\b",
-        "exceptions": [
-          "be*"
         ]
       }
     ]
@@ -2414,7 +2393,7 @@
     "dictionary": [
       {
         "id": "arsehole",
-        "match": "arseho*le|ass*ho*le"
+        "match": "(a+)(r+)(s+)(e+)(h+)(o+)le|(a+)(s+)(h+)(o+)(l+)(e+)"
       },
       {
         "id": "bastard",

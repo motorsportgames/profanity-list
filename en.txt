@@ -4,6 +4,8 @@
 (\b(a+)s(s+)\b)
 (\b(poon)
 (\b)(s+h+i+t+)(e+
+(a+)(r+)(s+)(e+)(h+)(o+)le
+(a+)(s+)(h+)(o+)(l+)(e+)
 (b+)(o+)(l+)(o+)(c+)(k+)(.
 (f+)(a+)(g+)(o+)(t+)
 (f+)(u+)(c+)(k+)
@@ -26,29 +28,37 @@
 \b(b+)(u+)(g)(g+)(e+)(r+)
 \b(bel)(l+)(e+)(n+)(d+)
 \b(bo)(o+)(b+)
-\b(c+)(h+)(r+)(i+)(s+)(t+)\b
 \b(c+)(r+)(a+)(p+)
 \b(c+u+m+)\b
+\b(chink
 \b(cl)(i+)(tor)(i+)(s)
 \b(cl)(u+)(nge)
 \b(clit)\b
 \b(d)(i)(ck)
 \b(d+)(a+)(m+)(n+)\b
 \b(f+)(a+)(g+)
-\b(j+)(e+)(s+)(u+)(s+)(.)(c+)(h+)(r+)(i+)(s+)(t+)\b
-\b(j+)(e+)(s+)(u+)(s+)\b
+\b(haji
 \b(k+)(i+)(k+)(e+)\b
 \b(p+)(e+)(n+)(i+)(s+)
 \b(r+a+p+e+)
+\b(rimjob
 \b(s+)(e+)(x+)
 \b(sh)(i+)(t)(t+)(y+)
 \b(t(i+)(t+))((y+)
+\b(t+)(i+)(t+)(s+)\b
 \b(t+)(w+)(a+)(t+)
 \b(w+)(a+)(n+)(k+)(e+)(r+)
 \b(w+)(h+)(o+)(r+)(e+)
 \b)
+\bcock
+\bcumming\b
+\benby
 \bhell\b
 \bjap\b
+\bleso\b
+\bpaki
+\bquim\b
+\bsemen\b
 acrotomophile
 acrotomophilia
 alabama hot pocket
@@ -65,9 +75,7 @@ apeshit
 apotemnophile
 apotemnophilia
 arse bandit
-arsehole
 ass bandit
-asshole
 auto erotic
 autoerotic
 babeland
@@ -208,9 +216,8 @@ chinaman
 chinamen
 ching chong
 ching-chong
-chink
 chinks
-chinky
+chinky)
 chocolate rosebud
 chocolate rosebuds
 cholerophile
@@ -231,7 +238,6 @@ clover clamps
 cluster fuck
 cluster-fuck
 clusterfuck
-cock
 cockpipe cosmonaut
 cockstruction worker
 coimetrophile
@@ -249,7 +255,6 @@ cream-pie
 creampie
 cum shot
 cum shots
-cumming
 cumshot
 cumshots
 cunnilingus
@@ -296,8 +301,6 @@ dogshit
 dolcett
 domination
 dominatrix
-domme
-dommes
 donkey punch
 donut muncher
 donut puncher
@@ -322,7 +325,6 @@ electro-play
 electroplay
 emetophile
 emetophilia
-enby
 eskimo trebuchet
 eye-tie
 eyetie
@@ -411,9 +413,8 @@ grope
 group sex
 gym bunny
 gymbunny
-hadji
-haji
-hajji
+hadji)\b
+haj(j+)i
 hand job
 hand-job
 handjob
@@ -478,7 +479,6 @@ lemon party
 lemonparty
 leningrad steamer
 lesbo
-leso
 lezzie
 lezzies
 light in the fedora
@@ -564,7 +564,6 @@ paedophile
 paedophilia
 pain slut
 painslut
-paki
 panamanian petting zoo
 pansy
 panties
@@ -633,7 +632,6 @@ pussy-puncher
 pussypuncher
 queaf
 queef
-quim
 rag head
 rag heads
 raghead
@@ -651,8 +649,7 @@ rhabdophilia
 rhypophile
 rhypophilia
 rice queen
-rimjob
-rimming
+rimming)\b
 ring raider
 ringraider
 rusty trombone
@@ -665,7 +662,6 @@ scatophile
 scatophilia
 schlong
 scissoring
-semen
 seplophile
 seplophilia
 shaved beaver
@@ -736,7 +732,6 @@ thumbzilla
 timber nigger
 timber-nigger
 timbernigger
-tits
 topless
 tosser
 towel head
